@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/vazach/aiconf/edit/master/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your
 
+## January
+
+
+## February
+
+* 12.-13.: [New+Work+Summit](https://www.newworksummit.com/nws2018/70769): Leading in the Age of AI. California, Target Audience: Management
+* Something else
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
