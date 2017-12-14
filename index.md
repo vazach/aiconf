@@ -1,17 +1,17 @@
-This page tries to collect worthwile (as by [my](http://vzach.de/) opinion) AI conference in 2018 in Germany and worldwide. 
+This page tries to collect worthwile (as by [my](http://vzach.de/) opinion) AI conference in 2018. I work in Germany in the automotive industry - so there is a bias towards these. Contact [me](http://vzach.de/) if I missed something. 
 
 ## January
-* 9.-12.: [CES](https://www.ces.tech/) 
 
+* 9.-12.: [CES](https://www.ces.tech/) - by now the de facto standard to see AI applications in consumer electronics and automotive. Location: Las Vegas, Target Audience: Management 
 
 ## February
 
-* 12.-13.: [New+Work+Summit](https://www.newworksummit.com/nws2018/70769): Leading in the Age of AI. California, Target Audience: Management, Organized by New York Times
-* Something else
+* 12.-13.: [New+Work+Summit](https://www.newworksummit.com/nws2018/70769): Leading in the Age of AI. I liked the speaker lineup (including Andrew Ng) and that isn't organized by a tech centric organization (New York Times). Location: California, Target Audience: Management
 
 ## March
 
 * 5.-8.: [Strata San Jose](https://conferences.oreilly.com/strata). San Jose, Target Audience: Data Practitioners, Organized by O'Reilly
+* 20.: [AI Customer Summit](https://theaisummit.com/customer/). In they past the had a very comprehensive speaker and sponsor lineup. Location: L
 * 26.-29.: [GTC 2018](https://www.nvidia.com/en-us/gtc/): GPU Technology Conference. Silicon Valley, Target Audience: Data Practitioners, Organized by NVIDIA. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -24,19 +24,29 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## June
 
+* 13-14. [AI Summit London](https://theaisummit.com/). Very broad and comprehensive. Location: London Target, Audience: Management. 
+
 ## July
+
+* 31.-1.8. [AI Summit Hongkong](https://theaisummit.com/). Very broad and comprehensive. Location: Hong Kong, Audience: Management. 
+
 
 ## August
 
 ## September
 
 * 11.-14. [Strata New York](https://conferences.oreilly.com/strata). New York, Target Audience: Data Practitioners, Organized by O'Reilly
+* 18-20. [AI Summit San Francisco](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management. 
+
 
 ## October
 
 ## November
 
+* 13.-15. [AI Summit Cape Town](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management. 
+
 ## December
 
+* 5.-6. [AI Summit New York](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management.
 * Strata Asia / Singapur ? (not yet announced, but seems likely)
 
