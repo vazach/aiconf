@@ -3,6 +3,8 @@ This page tries to collect worthwile (as by [my](http://vzach.de/) opinion) AI c
 ## January
 
 * 9.-12.: [CES](https://www.ces.tech/) - by now the de facto standard to see AI applications in consumer electronics and automotive. Location: Las Vegas, Target Audience: Management 
+* 25.-26. : [Deep Learning Summit San Francisco](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018), impressive lineup of speakers including Andrej Karpathy. Location: San Francisco, Target Audience: Data Practitioners.
+* 31.-3.1 : [RStudio Conf](https://www.rstudio.com/conference/) - centered on R development, but probably the  est conference if thats your thing. Location: San Diego, Target Audience: Data Practitioners. 
 
 ## February
 
@@ -41,12 +43,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## October
 
+* 29.-31. [Conference on Robot Learning (CoRL)](https://research.googleblog.com/2017/12/a-summary-of-first-conference-on-robot.html). Initiated by Google and with a remarkable lineup of speakers the last time. Location: Zürich, Audience: Scientists.
+
+
+
 ## November
 
 * 13.-15. [AI Summit Cape Town](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management. 
 
 ## December
 
+* 3.-8. [NIPS 2018 : The Thirty-second Annual Conference on Neural Information Processing Systems](https://nips.cc/Conferences/2018). The prime venue for Neural Network Research. Location: Montreal, Audience: Scientists
 * 5.-6. [AI Summit New York](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management.
 * Strata Asia / Singapur ? (not yet announced, but seems likely)
 
