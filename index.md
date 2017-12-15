@@ -41,7 +41,8 @@ Ihr sollte auch noch wissen, dass [ich](http://vzach.de) in der **Automobilbranc
 
 ## September
 
-* 11.-14. [Strata New York](https://conferences.oreilly.com/strata). it >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science widmet (wobei hier auch BigData/Hadoop eine große Rolle spielt). Ort New York; für Leute die selber mit Daten arbeiten. Ableger gibt es auch in San Jose (5.-8.3.), London (21.-24.5.) und vermutlich in Singapur (Dezember?), aber m.E. sind die nicht so spannend.  
+* ca. 2. [Zeit Konferenz Künstliche Intelligenz](https://convent.de/de/archiv/zeit-events/kuenstliche-intelligenz-2017/). Zumindest in den letzten zwei Jahren hat Die Zeit anfang September interessante Konferenzen veranstaltet, die sich speziell KI und Gesellschaft widmen. Ort: vermutlich wieder Berlin.  
+* 11.-14. [Strata New York](https://conferences.oreilly.com/strata). Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ort New York; für Leute die selber mit Daten arbeiten. Ableger gibt es auch in San Jose (5.-8.3.), London (21.-24.5.) und vermutlich in Singapur (Dezember?), aber m.E. sind die nicht so spannend.  
 * ca. 15. [EARL 2018 Enterprise Applications of the R Language] (https://earlconf.com/london/) (für 2018 noch nicht offiziell angekündigt) - meines Erachtens die besten europäische Konferenz die sich speziell R widmet. Ort: London; für Leute die selber mit R programmieren/analysieren. 
 * 18-20. [AI Summit San Francisco](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management. 
 
