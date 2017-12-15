@@ -4,7 +4,7 @@ This page tries to collect worthwile (as by [my](http://vzach.de/) opinion) AI c
 
 * 9.-12.: [CES](https://www.ces.tech/) - by now the de facto standard to see AI applications in consumer electronics and automotive. Location: Las Vegas, Target Audience: Management 
 * 25.-26. : [Deep Learning Summit San Francisco](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018), impressive lineup of speakers including Andrej Karpathy. Location: San Francisco, Target Audience: Data Practitioners.
-* 31.-3.1 : [RStudio Conf](https://www.rstudio.com/conference/) - centered on R development, but probably the  est conference if thats your thing. Location: San Diego, Target Audience: Data Practitioners. 
+* 31.-3.1 : [RStudio Conf](https://www.rstudio.com/conference/) - centered on R development, but probably the  best conference if thats your thing. Location: San Diego, Target Audience: Data Practitioners. 
 
 ## February
 
@@ -15,8 +15,6 @@ This page tries to collect worthwile (as by [my](http://vzach.de/) opinion) AI c
 * 5.-8.: [Strata San Jose](https://conferences.oreilly.com/strata). San Jose, Target Audience: Data Practitioners, Organized by O'Reilly
 * 20.: [AI Customer Summit](https://theaisummit.com/customer/). In they past the had a very comprehensive speaker and sponsor lineup. Location: L
 * 26.-29.: [GTC 2018](https://www.nvidia.com/en-us/gtc/): GPU Technology Conference. Silicon Valley, Target Audience: Data Practitioners, Organized by NVIDIA. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## April
 
@@ -37,7 +35,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## September
 
-* 11.-14. [Strata New York](https://conferences.oreilly.com/strata). New York, Target Audience: Data Practitioners, Organized by O'Reilly
+* 11.-14. [Strata New York](https://conferences.oreilly.com/strata). it >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science widmet (wobei hier auch BigData/Hadoop eine große Rolle spielt). Ort New York; für Leute die selber mit Daten arbeiten. Ableger gibt es auch in San Jose (5.-8.3.), London (21.-24.5.) und vermutlich in Singapur (Dezember?), aber m.E. sind die nicht so spannend.  
+* ca. 15. [EARL 2018 Enterprise Applications of the R Language] (https://earlconf.com/london/) (für 2018 noch nicht offiziell angekündigt) - meines Erachtens die besten europäische Konferenz die sich speziell R widmet. Ort: London; für Leute die selber mit R programmieren/analysieren. 
 * 18-20. [AI Summit San Francisco](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management. 
 
 
