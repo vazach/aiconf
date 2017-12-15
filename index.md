@@ -1,6 +1,6 @@
 # Die Wichtigsten KI Konferenzen 2018
 
-Ziel dieser Liste es es **die wenigen wichtigen oder besonderen Konferenzen zu sammeln**. Wenn ihr eine vollständige Liste aller Konferenzen sucht, dann seit [hier](https://blog.standuply.com/200-ai-ml-conferences-in-2018-eec7d0a50bcf) besser aufgehoben. Außerdem arbeite [ich](http://vzach.de) in der **Automobilbranche** - viele spezialisierte Konferenzen aus anderen Branchen (insb. Health Care oder Fintech) fehlen deswegen.  
+Ziel dieser Liste es es **die wenigen wichtigen oder besonderen Konferenzen zu sammeln**. Wenn ihr eine vollständige Liste aller Konferenzen sucht, dann seit ihr [hier](https://blog.standuply.com/200-ai-ml-conferences-in-2018-eec7d0a50bcf) besser aufgehoben. Außerdem arbeite [ich](http://vzach.de) in der **Automobilbranche** - viele spezialisierte Konferenzen aus anderen Branchen (insb. Health Care oder Fintech) fehlen deswegen.  
 
 [Ich](http://vzach.de) freue mich über Vorschläge für Ergänzungen / Anpassungen!
 
