@@ -19,6 +19,7 @@ Ihr sollte auch noch wissen, dass [ich](http://vzach.de) in der **Automobilbranc
 ## March
 
 * 5.-8.: [Strata San Jose](https://conferences.oreilly.com/strata). San Jose, Target Audience: Data Practitioners, Organized by O'Reilly
+* 11.-13.: [Auto.AI San Francisco](http://auto-ai.com/). Konferenz mit Fokus auf autonomen Fahren und Maschinellem sehen. Interessante Redner und eher für Management als für Entwickler. Im September gibt es eine ähnliche Konferenz dann in Berlin. 
 * 20.: [AI Customer Summit](https://theaisummit.com/customer/). In they past the had a very comprehensive speaker and sponsor lineup. Location: L
 * 26.-29.: [GTC 2018](https://www.nvidia.com/en-us/gtc/): GPU Technology Conference. Silicon Valley, Target Audience: Data Practitioners, Organized by NVIDIA. 
 
@@ -46,10 +47,12 @@ Ihr sollte auch noch wissen, dass [ich](http://vzach.de) in der **Automobilbranc
 * 11.-14. [Strata New York](https://conferences.oreilly.com/strata). Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ort New York; für Leute die selber mit Daten arbeiten. Ableger gibt es auch in San Jose (5.-8.3.), London (21.-24.5.) und vermutlich in Singapur (Dezember?), aber m.E. sind die nicht so spannend.  
 * ca. 15. [EARL 2018 Enterprise Applications of the R Language] (https://earlconf.com/london/) (für 2018 noch nicht offiziell angekündigt) - meines Erachtens die besten europäische Konferenz die sich speziell R widmet. Ort: London; für Leute die selber mit R programmieren/analysieren. 
 * 18-20. [AI Summit San Francisco](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management. 
+* 23-25. [Auto.AI Berlin](http://auto-ai.eu/en/) colocated mit [ACT](http://autoconnect-tech.com/en/). Das spannendste was ich für 2018 an der Schnittstelle von Automotive und AI gefunden habe. Hier geht es sowohl um selbstfahrende wie auch um vernetzte Fahrzeuge.  
 
 
 ## October
 
+* 10.-11. [World Summit AI](http://worldsummit.ai/). Großes, allgemeines und eher wenig technisches KI Event. Konkurriert mit dem AI Summit im Juni in Londom darum "das KI Event für Business Leader" in Europa zu sein. Im letzten Jahr mit teilweise sehr interessanten Sprechern. Ort: Amsterdam. 
 * 29.-31. [Conference on Robot Learning (CoRL)](https://research.googleblog.com/2017/12/a-summary-of-first-conference-on-robot.html). Initiated by Google and with a remarkable lineup of speakers the last time. Location: Zürich, Audience: Scientists.
 
 
