@@ -31,6 +31,7 @@ Ihr sollte auch noch wissen, dass [ich](http://vzach.de) in der **Automobilbranc
 ## June
 
 * 13-14. [AI Summit London](https://theaisummit.com/). Very broad and comprehensive. Location: London Target, Audience: Management. 
+* 18-22. [CVPR](http://cvpr2018.thecvf.com/). Die wichtigste wissenschaftliche Konferenz zum maschinellen sehen. Ort: Salt Lake City. 
 
 ## July
 
