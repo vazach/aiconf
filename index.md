@@ -1,4 +1,10 @@
-This page tries to collect worthwile (as by [my](http://vzach.de/) opinion) AI conference in 2018. I work in Germany in the automotive industry - so there is a bias towards these. Contact [me](http://vzach.de/) if I missed something. 
+# Die Wichtigsten KI Konferenzen 2018
+
+Mein Ziel mit dieser Liste es es **die wenigen wichtigen oder besonderen Konferenzen zu sammeln** (insb. habe ich auch gute Konferenzen nicht aufgenommen, wenn es auf dem gleichen Kontinent im selben Halbjahr eine bessere gibt). Wenn ihr eine vollständige Liste aller Konferenzen sucht, dann seit [hier](https://blog.standuply.com/200-ai-ml-conferences-in-2018-eec7d0a50bcf) besser aufgehoben. 
+
+Ihr sollte auch noch wissen, dass [ich](http://vzach.de) in der **Automobilbranche** arbeite - die vielen Interessanten Konferenzen die sich speziell Health Care oder Fintech widmen, findet ihr deswegen hier nicht. 
+
+[Ich](http://vzach.de) freue mich über Vorschläge für Ergänzungen / Anpassungen!
 
 ## January
 
