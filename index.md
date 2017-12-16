@@ -4,33 +4,35 @@ Ziel dieser Liste es es **die wenigen wichtigen oder besonderen Konferenzen zu s
 
 [Ich](http://vzach.de) freue mich über Vorschläge für Ergänzungen / Anpassungen!
 
-## January
+## Januar
 
-* 9.-12.: [CES](https://www.ces.tech/) - by now the de facto standard to see AI applications in consumer electronics and automotive. Location: Las Vegas, Target Audience: Management 
-* 25.-26. : [Deep Learning Summit San Francisco](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018), impressive lineup of speakers including Andrej Karpathy. Location: San Francisco, Target Audience: Data Practitioners.
-* 31.-3.1 : [RStudio Conf](https://www.rstudio.com/conference/) - centered on R development, but probably the  best conference if thats your thing. Location: San Diego, Target Audience: Data Practitioners. 
+* 9.-12.: [CES](https://www.ces.tech/) - die Konferenz für Entwicklungen in der Consumer Elektronik (und inzwischen auch der Elektronik im Auto). Ort: Las Vegas 
+* 25.-26. : [Deep Learning Summit San Francisco](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018), spannenden Redner wie Andrej Karpathy. In San Francisco und gerichtet eher an Techniker / Data Scientists.
+* 31.-3.1 : [RStudio Conf](https://www.rstudio.com/conference/) - Fokussiert auf R Entwicklung (also auch eher für Entwickler). Vermutlich die beste R Konferenz weltweit. 
 
-## February
+## Februar
 
-* 12.-13.: [New+Work+Summit](https://www.newworksummit.com/nws2018/70769): Leading in the Age of AI. I liked the speaker lineup (including Andrew Ng) and that isn't organized by a tech centric organization (New York Times). Location: California, Target Audience: Management
+* 12.-13.: [New+Work+Summit](https://www.newworksummit.com/nws2018/70769): Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). Ort: Kalifornien, ein wenig südlich von San Francisco. 
 
-## March
+## März
 
 * 5.-8.: [Strata San Jose](https://conferences.oreilly.com/strata). San Jose, Target Audience: Data Practitioners, Organized by O'Reilly
 * 11.-13.: [Auto.AI San Francisco](http://auto-ai.com/). Konferenz mit Fokus auf autonomen Fahren und Maschinellem sehen. Interessante Redner und eher für Management als für Entwickler. Im September gibt es eine ähnliche Konferenz dann in Berlin. 
-* 20.: [AI Customer Summit](https://theaisummit.com/customer/). In they past the had a very comprehensive speaker and sponsor lineup. Location: L
+* 26-27.[EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/). Vom MIT Technology Review organisiert und mit spannenden Rednern wie Astro Teller "Captain of Moonshots" vin Alphabet's X. Ort: San Francisco und mehr für Business als für Techniker. 
 * 26.-29.: [GTC 2018](https://www.nvidia.com/en-us/gtc/): GPU Technology Conference. Silicon Valley, Target Audience: Data Practitioners, Organized by NVIDIA. 
 
 ## April
 
-## May
+## Mai
 
-* 21.-24. [Strata London](https://conferences.oreilly.com/strata/strata-eu). London, Target Audience: Data Practitioners, Organized by O'Reilly 
+* 17. [Rise of AI](https://riseof.ai/) 
 
 ## June
 
+* 4-5 [EmTech Next](https://events.technologyreview.com/emtech/next/18/). Über die Veränderung der Arbeit durch KI und Roboter. Sprecher sind noch nicht angekündigt, aber andere Events der Reihe (siehe EmTech DIGITAL im März) lassen erwarten, dass das hier auch extrem spannend wird.  
 * 13-14. [AI Summit London](https://theaisummit.com/). Very broad and comprehensive. Location: London Target, Audience: Management. 
 * 18-22. [CVPR](http://cvpr2018.thecvf.com/). Die wichtigste wissenschaftliche Konferenz zum maschinellen sehen. Ort: Salt Lake City. 
+* 29. [Research and Applied AI Summit](https://raais.co/) - zumindest im letzten Jahr spannende Köpfe wie Michael Feindt (Gründer Blue Yonder) und Kenneth Cukier (The Economist); in London. 
 
 ## July
 
