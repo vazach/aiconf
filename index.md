@@ -10,8 +10,8 @@ Bei diesen Konferenzen geht es um das *wie* der Erstellung von KI Systemen (im D
 
 * 25.-26.1. : [Deep Learning Summit San Francisco](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018) - mit spannenden Redner wie Andrej Karpathy.
 * 31.1-3.2 : [RStudio Conf San Diego](https://www.rstudio.com/conference/) - Organisiert von Rstudio und eine großartige Konferenz zu R aus Anwendersicht. 
-* 5.-8.3.: [Strata San Jose](https://conferences.oreilly.com/strata) 
 * 26.-29.3: [GTC 2018 - GPU Technology Conference im Silicon Valley](https://www.nvidia.com/en-us/gtc/) - von NVIDIA organisiert. 
+* 29.4.-2.5. [Artificial Intelligence Conference New York](https://conferences.oreilly.com/artificial-intelligence/ai-ny). Oreilly Konferenzreihe zu AI. Ableger gibt es auch in Peking (10.-13.4.), San Francisco (17.-20.9.) und London (8.-11.10.)
 * 10-13.7.: [UseR 2018 - Brisbane](https://user2018.r-project.org/) - vermutlich die beste R Konferenz weltweit. 
 * 11.-14.9. [Strata New York](https://conferences.oreilly.com/strata). Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ort New York; für Leute die selber mit Daten arbeiten. Ableger gibt es auch in San Jose (5.-8.3.), London (21.-24.5.) und vermutlich in Singapur (Dezember?), aber m.E. sind die nicht so spannend.  
 * ca. 15.9. [EARL 2018 Enterprise Applications of the R Language (London)] (https://earlconf.com/london/) (für 2018 noch nicht offiziell angekündigt) - meines Erachtens die besten europäische Konferenz die sich speziell R widmet. 
@@ -22,14 +22,10 @@ Bei diesen Konferenzen geht es darum wo KI in den nächsten Jahren in Firmen zum
 
 * 9.-12.1.: [CES Las Vegas](https://www.ces.tech/) - die Konferenz für Entwicklungen in der Consumer Elektronik (und inzwischen auch der Elektronik im Auto).  
 * 11.-13.3.: [Auto.AI San Francisco](http://auto-ai.com/). Konferenz mit Fokus auf autonomen Fahren und Maschinellem sehen. Interessante Redner und eher für Management als für Entwickler. Im September gibt es eine ähnliche Konferenz dann in Berlin. 
-* 13-14.6. [AI Summit London](https://theaisummit.com/).
-* 31.7.-1.8. [AI Summit Hongkong](https://theaisummit.com/). Very broad and comprehensive. Location: Hong Kong, Audience: Management. 
-* 18-20.9. [AI Summit San Francisco](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management. 
+* 13-14.6. [AI Summit London](https://theaisummit.com/). Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe unten) San Francisco (18-20.9.), New York (5.-6.12.) und Cape Town (13.-15.11.)
+* 31.7.-1.8. [AI Summit Hongkong](https://theaisummit.com/). Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
 * 23-25.9. [Auto.AI Berlin](http://auto-ai.eu/en/) colocated mit [ACT](http://autoconnect-tech.com/en/). Das spannendste was ich für 2018 an der Schnittstelle von Automotive und AI gefunden habe. Hier geht es sowohl um selbstfahrende wie auch um vernetzte Fahrzeuge.  
 * 10.-11.10. [World Summit AI - Amsterdam](http://worldsummit.ai/). Großes, allgemeines und eher wenig technisches KI Event. Konkurriert mit dem AI Summit im Juni in Londom darum "das KI Event für Business Leader" in Europa zu sein. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
-* 13.-15.11. [AI Summit Cape Town](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management. 
-* 5.-6.12. [AI Summit New York](https://theaisummit.com/). Very broad and comprehensive. Location: San Francisco, Audience: Management.
-
 
 ## Februar
 
