@@ -8,13 +8,15 @@ Ziel dieser Liste es es **die wenigen wichtigen oder besonderen Konferenzen zu s
 
 Bei diesen Konferenzen geht es um das *wie* der Erstellung von KI Systemen (im Detail). Richten tun sie sich im allgemeinen also an Entwickler / Data Scientists / Machine Learning Engineers usw. 
 
-* 25.-26.1. : [Deep Learning Summit San Francisco](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018) - mit spannenden Redner wie Andrej Karpathy.
-* 31.1-3.2 : [RStudio Conf San Diego](https://www.rstudio.com/conference/) - Organisiert von Rstudio und eine großartige Konferenz zu R aus Anwendersicht. 
-* 26.-29.3: [GTC 2018 - GPU Technology Conference im Silicon Valley](https://www.nvidia.com/en-us/gtc/) - von NVIDIA organisiert. 
-* 29.4.-2.5. [Artificial Intelligence Conference New York](https://conferences.oreilly.com/artificial-intelligence/ai-ny). Oreilly Konferenzreihe zu AI. Ableger gibt es auch in Peking (10.-13.4.), San Francisco (17.-20.9.) und London (8.-11.10.)
-* 10-13.7.: [UseR 2018 - Brisbane](https://user2018.r-project.org/) - vermutlich die beste R Konferenz weltweit. 
-* 11.-14.9. [Strata New York](https://conferences.oreilly.com/strata). Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ort New York; für Leute die selber mit Daten arbeiten. Ableger gibt es auch in San Jose (5.-8.3.), London (21.-24.5.) und vermutlich in Singapur (Dezember?), aber m.E. sind die nicht so spannend.  
-* ca. 15.9. [EARL 2018 Enterprise Applications of the R Language (London)] (https://earlconf.com/london/) (für 2018 noch nicht offiziell angekündigt) - meines Erachtens die besten europäische Konferenz die sich speziell R widmet. 
+Datum | Ort | Konferenz  | Anmerkungen
+------------ | ------------- | ------------- | -------------  
+25.-26.1.  | San Francisco | [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018) | mit spannenden Redner wie Andrej Karpathy.
+31.1-3.2.  | San Diego | [RStudio Conf](https://www.rstudio.com/conference/) | Organisiert von Rstudio und eine großartige Konferenz zu R aus Anwendersicht. 
+26.-29.3. | San Jose | [GTC 2018 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisiert. Ich würde auch vermuten dass es - wie im letzten Jahr - Ableger in Peking (Oktober), München (Oktober), Tel Aviv (Oktober), Taipeh (Oktober), Washington (November) und Toyko (November) gibt.   
+29.4.-2.5. | New York | [Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | Oreilly Konferenzreihe zu AI. Ableger gibt es auch in Peking (10.-13.4.), San Francisco (17.-20.9.) und London (8.-11.10.)
+10-13.7. | Brisbane | [UseR 2018 - Brisbane](https://user2018.r-project.org/) | Vermutlich die beste R Konferenz weltweit. 
+11.-14.9. | New York | [Strata](https://conferences.oreilly.com/strata) |  Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ableger gibt es auch in San Jose (5.-8.3.), London (21.-24.5.) und vermutlich in Singapur (Dezember?), aber m.E. sind die nicht so spannend.  
+ca. 15.9. | London | [EARL 2018 Enterprise Applications of the R Language](https://earlconf.com/london/) | Vermutlich die beste europäische R Konferenz im nächsten Jahr (allerdings auch nocht gar nicht offiziell angekündigt). 
 
 # Konferenzen zu Anwendungsmöglichkeiten, Lösungen, Business Cases .. 
 
