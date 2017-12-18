@@ -22,13 +22,15 @@ ca. 15.9. | London | [EARL](https://earlconf.com/london/) | Vermutlich die beste
 
 Bei diesen Konferenzen geht es darum wo KI in den nächsten Jahren in Firmen zum Einsatz kommen kann; also um das *wozu* und (sehr viel abstrakter) *wie*. Richten tun sich die Konferenzen also an Manager, Projektleiter usw. 
 
-* 9.-12.1.: [CES Las Vegas](https://www.ces.tech/) - die Konferenz für Entwicklungen in der Consumer Elektronik (und inzwischen auch der Elektronik im Auto).  
-* 11.-13.3.: [Auto.AI San Francisco](http://auto-ai.com/). Konferenz mit Fokus auf autonomen Fahren und Maschinellem sehen. Interessante Redner und eher für Management als für Entwickler. Im September gibt es eine ähnliche Konferenz dann in Berlin. 
-* 13-14.6. [AI Summit London](https://theaisummit.com/). Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe unten) San Francisco (18-20.9.), New York (5.-6.12.) und Cape Town (13.-15.11.)
-* 29.6. [Research and Applied AI Summit](https://raais.co/) - zumindest im letzten Jahr spannende Köpfe wie Michael Feindt (Gründer Blue Yonder) und Kenneth Cukier (The Economist); in London. 
-* 31.7.-1.8. [AI Summit Hongkong](https://theaisummit.com/). Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
-* 23-25.9. [Auto.AI Berlin](http://auto-ai.eu/en/) colocated mit [ACT](http://autoconnect-tech.com/en/). Das spannendste was ich für 2018 an der Schnittstelle von Automotive und AI gefunden habe. Hier geht es sowohl um selbstfahrende wie auch um vernetzte Fahrzeuge.  
-* 10.-11.10. [World Summit AI - Amsterdam](http://worldsummit.ai/). Großes, allgemeines und eher wenig technisches KI Event. Konkurriert mit dem AI Summit im Juni in Londom darum "das KI Event für Business Leader" in Europa zu sein. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
+Datum | Ort | Konferenz  | Anmerkungen
+------------ | ------------- | ------------- | ------------- 
+9.-12.1. | Las Vegas | [CES Las Vegas](https://www.ces.tech/) | Die Konferenz für Entwicklungen in der Consumer Elektronik (und inzwischen auch der Elektronik im Auto).  
+11.-13.3.| San Francisco | [Auto.AI](http://auto-ai.com/) | Konferenz mit Fokus auf autonomen Fahren und Maschinellem sehen. Interessante Redner und eher für Management als für Entwickler. Im September gibt es eine ähnliche Konferenz dann in Berlin. 
+13-14.6. | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe unten) San Francisco (18-20.9.), New York (5.-6.12.) und Cape Town (13.-15.11.)
+29.6. | London | [Research and Applied AI Summit](https://raais.co/) | Zumindest im letzten Jahr spannende Köpfe wie Michael Feindt (Gründer Blue Yonder) und Kenneth Cukier (The Economist).
+31.7.-1.8. | Hongkong | [AI Summit Hongkong](https://theaisummit.com/) | Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
+23-25.9. | Berlin | [Auto.AI](http://auto-ai.eu/en/) und [ACT](http://autoconnect-tech.com/en/) | Das spannendste was ich für 2018 an der Schnittstelle von Automotive und AI gefunden habe. Hier geht es sowohl um selbstfahrende wie auch um vernetzte Fahrzeuge.  
+10.-11.10. | Amsterdam | [World Summit AI](http://worldsummit.ai/) | Großes, allgemeines und eher wenig technisches KI Event. Konkurriert mit dem AI Summit im Juni in Londom darum "das KI Event für Business Leader" in Europa zu sein. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
 
 # Konferenzen zu langfristigen Perspektiven, gesellschaftlichen Aspekten, AGI .. 
 
