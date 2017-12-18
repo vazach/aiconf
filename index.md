@@ -48,10 +48,10 @@ ca. 2.12. | Berlin |  [Zeit Konferenz Künstliche Intelligenz](https://convent.d
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-18-22.6. | Salt Lake City | [Computer Vision and Pattern Recognition (CVPR)](http://cvpr2018.thecvf.com/) |  Die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
+18-22.6. | Salt Lake City | [CVPR](http://cvpr2018.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
 10-15.7. | Stockholm | [ICML](https://icml.cc/) | International Conference on Machine Learning
 13-19.7. | Stockholm | [IJCAI-ECAI](https://www.ijcai-18.org/) | Die International Joint Conference on Artificial Intelligence und die International Conference on Machine Learning finden dieses Jahr zusammen mit noch weiteren Konferenzen als Federated AI Meeting in Stockholm statt. 
 19 - 23.8. | London | [KDD](http://www.kdd.org/kdd2018/) | Eine der angesehendsten Konferenzen zu praktischeren Aspekten von Data Mining. 
-29.-31.10. | Zürich | [Conference on Robot Learning (CoRL)](https://research.googleblog.com/2017/12/a-summary-of-first-conference-on-robot.html) | Initiiert von Google und mit - beim letzten mal - einer wirklich beeindruckenden Liste von Rednern. 
-3.-8.12.| Montreal |  [NIPS 2018 : The Thirty-second Annual Conference on Neural Information Processing Systems](https://nips.cc/Conferences/2018) | Die wichtigste Konferenz zu neuronalen Netzwerken. 
+29.-31.10. | Zürich | [CoRL](https://research.googleblog.com/2017/12/a-summary-of-first-conference-on-robot.html) | Conference on Robot Learning - initiiert von Google und mit - beim letzten mal - einer wirklich beeindruckenden Liste von Rednern. 
+3.-8.12.| Montreal |  [NIPS](https://nips.cc/Conferences/2018) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning. 
 
