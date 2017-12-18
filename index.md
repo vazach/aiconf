@@ -36,7 +36,7 @@ Konferenzen in denen es mehr um langfristige Fragen und Visionen geht.
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-12.-13.1. | Kalifornien (Südlich von SF): [New+Work+Summit](https://www.newworksummit.com/nws2018/70769) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
+12.-13.1. | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/nws2018/70769) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
 26-27. | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und mit spannenden Rednern wie Astro Teller "Captain of Moonshots" vin Alphabet's X.  
 17.3. | Berlin | [Rise of AI](https://riseof.ai/) | 
 4-5.6. | Boston | [EmTech Next](https://events.technologyreview.com/emtech/next/18/) |  Über die Veränderung der Arbeit durch KI und Roboter. Sprecher sind noch nicht angekündigt, aber andere Events der Reihe (siehe EmTech DIGITAL im März) lassen erwarten, dass das hier auch extrem spannend wird.  
@@ -46,7 +46,7 @@ ca. 2.12. | Berlin |  [Zeit Konferenz Künstliche Intelligenz](https://convent.d
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-18-22.6. | Salt Lake City | [CVPR](http://cvpr2018.thecvf.com/) |  Die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
+18-22.6. | Salt Lake City | [Computer Vision and Pattern Recognition (CVPR)](http://cvpr2018.thecvf.com/) |  Die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
 29.-31.10 | Zürich | [Conference on Robot Learning (CoRL)](https://research.googleblog.com/2017/12/a-summary-of-first-conference-on-robot.html) | Initiiert von Google und mit - beim letzten mal - einer wirklich beeindruckenden Liste von Rednern. 
 3.-8. | Montreal |  [NIPS 2018 : The Thirty-second Annual Conference on Neural Information Processing Systems](https://nips.cc/Conferences/2018) | Die wichtigste Konferenz zu neuronalen Netzwerken. 
 
