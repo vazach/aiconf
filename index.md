@@ -55,3 +55,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 29.-31.10. | Zürich | [CoRL](https://research.googleblog.com/2017/12/a-summary-of-first-conference-on-robot.html) | Conference on Robot Learning - initiiert von Google und mit - beim letzten mal - einer wirklich beeindruckenden Liste von Rednern. 
 3.-8.12.| Montreal |  [NIPS](https://nips.cc/Conferences/2018) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning. 
 
+# Konferenzen relevanter Anbieter
+
+Konferenzen 
