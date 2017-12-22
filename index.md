@@ -12,6 +12,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 25.-26.1.  | San Francisco | [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-san-francisco-2018) | Sehr spannende Redner wie  Andrej Karpathy.
 31.1-3.2.  | San Diego | [RStudio Conf](https://www.rstudio.com/conference/) | Organisiert von Rstudio und eine großartige Konferenz zu R aus Anwendersicht. 
+15.-16.3. | Londong | [AI Assistant Summit](https://www.re-work.co/events/ai-assistant-summit-london-2018) | Event der sich speziell dem Thema KI für Asssistenten und Conversational Interfaces widmet. 
 26.-29.3. | San Jose | [GTC 2018 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisiert. Ich würde auch vermuten dass es - wie im letzten Jahr - Ableger in Peking (Oktober), München (Oktober), Tel Aviv (Oktober), Taipeh (Oktober), Washington (November) und Tokyo (November) gibt.   
 29.4.-2.5. | New York | [Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | Oreilly Konferenzreihe zu AI. Ableger gibt es auch in Peking (10.-13.4.), San Francisco (17.-20.9.) und London (8.-11.10.)
 1.-5.5. | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco (ODSC West, vermutlich Anfang November) und in London (ODSC Europe, vermutlich im Oktober), Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
@@ -19,6 +20,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 21.-24.8. | New York | [Jupyter Con](https://www.oreilly.com/conferences/) | Python zentrisch mit Fukus auf Data Science
 11.-14.9. | New York | [Strata](https://conferences.oreilly.com/strata) |  Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ableger gibt es auch in San Jose (5.-8.3.), London (21.-24.5.) und vermutlich in Singapur (Dezember?), aber m.E. sind die nicht so spannend.  
 ca. 15.9. | London | [EARL](https://earlconf.com/london/) | Vermutlich die beste europäische R Konferenz im nächsten Jahr (allerdings auch noch gar nicht offiziell angekündigt). 
+20.-21.9. | London | [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2018) | Beste anwendungsnahe Deep Learning Event den ich in Europa gefunden habe
 ?.9. | Süd-West Deutschland | [Data2Day](https://www.data2day.de/) | Nette Hacker Konferenz auf der sich besonders Data Engineers / Machine Learning Engineers wohlfühlen sollten (Ort und Termin für 2018 sind noch nicht verkündet, bisher war die Konferenz aber in Karlsruhe und Heidelberg).
 ca. 25.10. | Karlsruhe | [PyData & PyCon](https://de.pycon.org/| Vermutlich die beste "Python für Data Scientists" Konferenz in Deutschland im nächsten Jahr. [PyCon](http://www.pycon.org/) und [PyData](https://pydata.org/events.html) Events gibt es sonst aber auch an allen möglichen Orten auf der Welt.
 
