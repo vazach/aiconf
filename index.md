@@ -57,4 +57,17 @@ Datum | Ort | Konferenz  | Anmerkungen
 
 # Konferenzen relevanter Anbieter
 
-Konferenzen 
+Konferenzen von Anbietern wo im nächsten Jahr KI voraussichtlich eine große Rolle spielen wird. 
+
+Datum | Ort | Konferenz  | Anmerkungen
+------------ | ------------- | ------------- | -------------  
+19.-22.3. | Las Vegas | [IBM Think](https://www.ibm.com/events/think/) |
+24.-28.9. | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
+1.-5.10. | Las Vegas | [SAP TechEd](https://events.sap.com/teched-global/en/cities_dates) |
+22.-25.10. | New Orleans | [Tableau Conference](https://tc17.tableau.com/tc18) | 
+26.-30.10. | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)|
+?.12. | Mountain View | [https://h2oworld.h2o.ai/](https://h2oworld.h2o.ai/)| (Noch der Link zum 2017er event, aber gibt es 2018 sicher wieder 
+? | London | [Domino Data Science PopUp](https://popup.dominodatalab.com/) |
+
+
+
