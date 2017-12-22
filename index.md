@@ -35,6 +35,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 13-14.6. | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe unten) San Francisco (18-20.9.), New York (5.-6.12.) und Cape Town (13.-15.11.)
 29.6. | London | [Research and Applied AI Summit](https://raais.co/) | Zumindest im letzten Jahr spannende Köpfe wie Michael Feindt (Gründer Blue Yonder) und Kenneth Cukier (The Economist).
 31.7.-1.8. | Hongkong | [AI Summit Hongkong](https://theaisummit.com/) | Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
+Ende August | Orlando [Disney Data & Analytics Conference](https://disneydataconference.com/) | Ich halte Disney ja für nen sehr innovativen Konzern und glaube an Filme und Spiele als erstes richtig großes Anwendungsfeld für generative Modelle .. (Konferenz ist für 2018 noch nicht offiziell angekündigt, aber findet seit ein paar Jahren zu diesem Termin in Orlando statt. 
 23-25.9. | Berlin | [Auto.AI](http://auto-ai.eu/en/) und [ACT](http://autoconnect-tech.com/en/) | Das spannendste was ich für 2018 an der Schnittstelle von Automotive und AI gefunden habe. Hier geht es sowohl um selbstfahrende wie auch um vernetzte Fahrzeuge.  
 10.-11.10. | Amsterdam | [World Summit AI](http://worldsummit.ai/) | Großes, allgemeines und eher wenig technisches KI Event. Konkurriert mit dem AI Summit im Juni in Londom darum "das KI Event für Business Leader" in Europa zu sein. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
 ?.11. | Berlin? | [VDI Konferenz Artificial Intelligence](https://www.vdi-wissensforum.de/weiterbildung-maschinenbau/artificial-intelligence/) | Einzigartig, weil sich hier der Maschinenbau zu KI trifft. Für 2018 noch gar nicht angekündigt ... aber ich würde mal drauf wetten (und habe Daten und Links aus diesem Jahr genommen).
@@ -72,6 +73,7 @@ Konferenzen von Anbietern wo im nächsten Jahr KI voraussichtlich eine große Ro
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 19.-22.3. | Las Vegas | [IBM Think](https://www.ibm.com/events/think/) |
+8.-11.4. | Austin | [AnacondaCON](https://anacondacon.io/)|
 24.-27.7. | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next18/) |
 24.-28.9. | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
 25.-28.9. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/)| (Noch der Link zum 2017er event .. aber gibt es 2018 sicher)
