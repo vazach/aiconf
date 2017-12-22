@@ -1,6 +1,6 @@
 # Gute KI Konferenzen 2018
 
-Ziel dieses Liste es die KI Konferenzen im nächsten Jahr die ([meiner](http://vzach.de) Meinung nach) wirklich die Zeit wert sind (inkl. der für die Anreise aus Deutschland). 
+Diese Liste sammelt KI Konferenzen in 2018 die ([meiner](http://vzach.de) Meinung nach) wirklich die Zeit wert sind (inkl. der für die Anreise aus Deutschland). 
 
 [Ich](http://vzach.de) freue mich über Vorschläge für Ergänzungen / Anpassungen!
 
