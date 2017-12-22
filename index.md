@@ -64,7 +64,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 19.-22.3. | Las Vegas | [IBM Think](https://www.ibm.com/events/think/) |
 24.-27.7. | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next18/) |
 24.-28.9. | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
-25.-28.9. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/| (Noch der Link zum 2017er event .. aber gibt es 2018 sicher)
+25.-28.9. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/)| (Noch der Link zum 2017er event .. aber gibt es 2018 sicher)
 1.-5.10. | Las Vegas | [SAP TechEd](https://events.sap.com/teched-global/en/cities_dates) |
 22.-25.10. | New Orleans | [Tableau Conference](https://tc17.tableau.com/tc18) | 
 26.-30.10. | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)|
