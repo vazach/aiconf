@@ -48,7 +48,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 12.-13.1. | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/nws2018/70769) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
 17.3. | Berlin | [Rise of AI](https://riseof.ai/) | 
-26-27.3. | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und mit spannenden Rednern wie Astro Teller "Captain of Moonshots" vin Alphabet's X.  
+26-27.3. | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und mit spannenden Rednern wie Astro Teller "Captain of Moonshots" von Alphabet's X.  
 24.-25.5. | Amsterdam | [The Next Web Conference](https://thenextweb.com/conference/) | Riesiger allgemeiner Event mit einem Machine Learning Track. 
 4.-5.6. | Berlin | [Singularity Summit Germany](http://www.singularityugermanysummit.org/) | Organisiert von der von Ray Kurzweil gegründeten Singularity University geht es hier um die langfristigen Potentiale von KI. Andere regionale Ableger gibt es auch in Australien, Tschechien, Chile, Südafrika und Schweden - und den internationalen Summit in San Francisco (s.u.). 
 4-5.6. | Boston | [EmTech Next](https://events.technologyreview.com/emtech/next/18/) |  Über die Veränderung der Arbeit durch KI und Roboter. Sprecher sind noch nicht angekündigt, aber andere Events der Reihe (siehe EmTech DIGITAL im März) lassen erwarten, dass das hier auch extrem spannend wird.  
@@ -73,7 +73,7 @@ Konferenzen von Anbietern wo im nächsten Jahr KI voraussichtlich eine große Ro
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 19.-22.3. | Las Vegas | [IBM Think](https://www.ibm.com/events/think/) |
-8.-11.4. | Austin | [AnacondaCON](https://anacondacon.io/)|
+8.-11.4. | Austin | [AnacondaCON](https://anacondacon.io/) |
 24.-27.7. | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next18/) |
 24.-28.9. | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
 25.-28.9. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/)| (Noch der Link zum 2017er event .. aber gibt es 2018 sicher)
