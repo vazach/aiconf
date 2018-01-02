@@ -69,7 +69,7 @@ ca. 2.12. | Berlin |  [Zeit Konferenz Künstliche Intelligenz](https://convent.d
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-30.4.-3.4. | Vancouver | [ICLR](http://www.iclr.cc/doku.php?id=ICLR2018:main&redirect=1) | 6th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke. 
+30.4.-3.5. | Vancouver | [ICLR](http://www.iclr.cc/doku.php?id=ICLR2018:main&redirect=1) | 6th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke. 
 18-22.6. | Salt Lake City | [CVPR](http://cvpr2018.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
 10-15.7. | Stockholm | [ICML](https://icml.cc/) | International Conference on Machine Learning
 13-19.7. | Stockholm | [IJCAI-ECAI](https://www.ijcai-18.org/) | Die International Joint Conference on Artificial Intelligence und die International Conference on Machine Learning finden dieses Jahr zusammen mit noch weiteren Konferenzen als Federated AI Meeting in Stockholm statt. 
