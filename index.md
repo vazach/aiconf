@@ -86,6 +86,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 31.1-3.2.  | San Diego | [RStudio Conf](https://www.rstudio.com/conference/) | 
 19.-22.3. | Las Vegas | [IBM Think](https://www.ibm.com/events/think/) | 
 8.-11.4. | Austin | [AnacondaCON](https://anacondacon.io/) | 
+4.-6.6. | San Francisco | [Spark+AI Summit](https://databricks.com/sparkaisummit) | The bi-annual event of databricks
 24.-27.7. | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next18/) |
 24.-28.9. | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
 25.-28.9. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/)| (Noch der Link zum 2017er event .. aber gibt es 2018 sicher)
