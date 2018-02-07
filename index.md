@@ -40,6 +40,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 7.-9.3. | Stuttgart | [KI und Data Analytics in Manufacturing](http://www.marcusevans-conferences-german.com/language-marcusevans-conferences-event-details.asp?EventID=24134&SectorID=19#.Wj1P3FSdXu4) | Kleinerer Event, aber zumindest im letzten Jahr sehr nett mit guter Möglichkeit zur Diskussion mit innovativen Führungskräften aus der Produktion. 
 11.-13.3.| San Francisco | [Auto.AI](http://auto-ai.com/) | Konferenz mit Fokus auf autonomen Fahren und maschinellem Sehen. Interessante Redner und eher für Management als für Entwickler. Im September gibt es eine ähnliche Konferenz dann in Berlin.
 24.-25.5. | Amsterdam | [The Next Web Conference](https://thenextweb.com/conference/) | Riesiger allgemeiner Event mit einem Machine Learning Track. 
+?.7. | München ? | [VDI Konferenz Artificial Intelligence](https://www.vdi-wissensforum.de/weiterbildung-maschinenbau/artificial-intelligence/) | Einzigartig, weil sich hier der Maschinenbau zu KI trifft. Für 2018 noch gar nicht angekündigt ... aber ich würde mal drauf wetten (und habe Daten und Links aus diesem Jahr genommen).
 13-14.6. | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe unten) San Francisco (18-20.9.), New York (5.-6.12.) und Cape Town (13.-15.11.)
 29.6. | London | [Research and Applied AI Summit](https://raais.co/) | Zumindest im letzten Jahr spannende Köpfe wie Michael Feindt (Gründer Blue Yonder) und Kenneth Cukier (The Economist).
 9.-12.7. | Hongkong | [RISE](https://riseconf.com/) | Große Technologie Konferenz mit einer TalkRobot Teilkonferenz zu KI und Robotern (ist von den gleichen Organisatoren wir der WebSummit).  
@@ -49,7 +50,6 @@ Ende August | Orlando | [Disney Data & Analytics Conference](https://disneydatac
 10.-11.10. | Amsterdam | [World Summit AI](http://worldsummit.ai/) | Großes, allgemeines und eher wenig technisches KI Event. Konkurriert mit dem AI Summit im Juni in Londom darum "das KI Event für Business Leader" in Europa zu sein. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
 25.-26.10. | Toronto | [Deep Learning Summit Toronto](https://www.re-work.co/events/deep-learning-summit-toronto-canada-track2-2018)| Interessantes Meeting zu Anwendung von Deep Learning.  
 5.-8.11. | Lissabon | [Web Summit](https://websummit.com/) | Größtes Tech Event in Europa - natürlich auch mit einem KI Track ("Talk Robot")
-?.11. | Berlin? | [VDI Konferenz Artificial Intelligence](https://www.vdi-wissensforum.de/weiterbildung-maschinenbau/artificial-intelligence/) | Einzigartig, weil sich hier der Maschinenbau zu KI trifft. Für 2018 noch gar nicht angekündigt ... aber ich würde mal drauf wetten (und habe Daten und Links aus diesem Jahr genommen).
 
 # Konferenzen zu langfristigen Perspektiven, gesellschaftlichen Aspekten, AGI .. 
 
