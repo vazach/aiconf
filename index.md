@@ -28,6 +28,8 @@ Datum | Ort | Konferenz  | Anmerkungen
 ?.9. | Süd-West Deutschland | [Data2Day](https://www.data2day.de/) | Nette Hacker Konferenz auf der sich besonders Data Engineers / Machine Learning Engineers wohlfühlen sollten (Ort und Termin für 2018 sind noch nicht verkündet, bisher war die Konferenz aber in Karlsruhe und Heidelberg).
 25.-26.10. | Toronto | [Deep Learning Summit Toronto](https://www.re-work.co/events/deep-learning-summit-toronto-canada-track1-2018)| Das Toronto eine der Wurzeln der Renaissance der neuronalen Netzwerke ist, erklärt vermutlich, weswegen gerade hier besonders interessante Sprecher auftauchen. Paralell gibt es auch einen anwendungsnahen Track (siehe unten). 
 ca. 25.10. | Karlsruhe | [PyData & PyCon](https://de.pycon.org/)| Vermutlich die beste "Python für Data Scientists" Konferenz in Deutschland im nächsten Jahr. [PyCon](http://www.pycon.org/) und [PyData](https://pydata.org/events.html) Events gibt es sonst aber auch an allen möglichen Orten auf der Welt.
+8.11. | Kempten | [Data Pioneers 2018](https://datapioneers.tech)| Kleinere, eintägige Konferenz zu Themen rund um Data Science und Machine Learning. Findet 2018 erstmalig statt.
+
 
 # Konferenzen zu Anwendungsmöglichkeiten, Business Cases .. 
 
