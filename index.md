@@ -37,7 +37,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 7.-9.3. | Stuttgart | [KI und Data Analytics in Manufacturing](http://www.marcusevans-conferences-german.com/language-marcusevans-conferences-event-details.asp?EventID=24134&SectorID=19#.Wj1P3FSdXu4) | Kleinerer Event, aber zumindest im letzten Jahr sehr nett mit guter Möglichkeit zur Diskussion mit innovativen Führungskräften aus der Produktion. 
 11.-13.3.| San Francisco | [Auto.AI](http://auto-ai.com/) | Konferenz mit Fokus auf autonomen Fahren und maschinellem Sehen. Interessante Redner und eher für Management als für Entwickler. Im September gibt es eine ähnliche Konferenz dann in Berlin.
 24.-25.5. | Amsterdam | [The Next Web Conference](https://thenextweb.com/conference/) | Riesiger allgemeiner Event mit einem Machine Learning Track. 
-?.7. | München ? | [VDI Konferenz Artificial Intelligence](https://www.vdi-wissensforum.de/weiterbildung-maschinenbau/artificial-intelligence/) | Einzigartig, weil sich hier der Maschinenbau zu KI trifft. Für 2018 noch gar nicht angekündigt ... aber ich würde mal drauf wetten (und habe Daten und Links aus diesem Jahr genommen).
 13-14.6. | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe unten) San Francisco (18-20.9.), New York (5.-6.12.) und Cape Town (13.-15.11.)
 29.6. | London | [Research and Applied AI Summit](https://raais.co/) | Zumindest im letzten Jahr spannende Köpfe wie Michael Feindt (Gründer Blue Yonder) und Kenneth Cukier (The Economist).
 9.-12.7. | Hongkong | [RISE](https://riseconf.com/) | Große Technologie Konferenz mit einer TalkRobot Teilkonferenz zu KI und Robotern (ist von den gleichen Organisatoren wir der WebSummit).  
@@ -55,27 +54,24 @@ Konferenzen in denen es mehr um langfristige Fragen und Visionen geht.
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-17.3. | Berlin | [Rise of AI](https://riseof.ai/) | 
 26-27.3. | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und mit spannenden Rednern wie Astro Teller "Captain of Moonshots" von Alphabet's X.  
-4.-5.6. | Berlin | [Singularity Summit Germany](http://www.singularityugermanysummit.org/) | Organisiert von der von Ray Kurzweil gegründeten Singularity University geht es hier um die langfristigen Potentiale von KI. Andere regionale Ableger gibt es auch in Australien, Tschechien, Chile, Südafrika und Schweden - und den internationalen Summit in San Francisco (s.u.). 
 4-5.6. | Boston | [EmTech Next](https://events.technologyreview.com/emtech/next/18/) |  Über die Veränderung der Arbeit durch KI und Roboter. Sprecher sind noch nicht angekündigt, aber andere Events der Reihe (siehe EmTech DIGITAL im März) lassen erwarten, dass das hier auch extrem spannend wird.  
 20.-22.8. | San Francisco | [Singularty International Summit](https://su.org/summits/su-global-summit/) | Organisiert von der von Ray Kurzweil gegründeten Singularity University.
-ca. 2.12. | Berlin |  [Zeit Konferenz Künstliche Intelligenz](https://convent.de/de/archiv/zeit-events/kuenstliche-intelligenz-2017/) |  Zumindest in den letzten zwei Jahren hat Die Zeit anfang September interessante Konferenzen veranstaltet, die sich speziell KI und Gesellschaft widmen.
-25.-26.2019 | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/nws2018/70769) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
-
+31.8. | Berlin |  [Zeit Konferenz Künstliche Intelligenz](https://convent.de/de/archiv/zeit-events/kuenstliche-intelligenz-2017/) |  Zumindest in den letzten zwei Jahren hat Die Zeit interessante Konferenzen veranstaltet, die sich speziell KI und Gesellschaft widmen.
+25.-26.2.2019 | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
+16.5.2019 | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
 
 # Wissenschaftliche Konferenzen
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-18-22.6. | Salt Lake City | [CVPR](http://cvpr2018.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
-10-15.7. | Stockholm | [ICML](https://icml.cc/) | International Conference on Machine Learning
-13-19.7. | Stockholm | [IJCAI-ECAI](https://www.ijcai-18.org/) | Die International Joint Conference on Artificial Intelligence und die International Conference on Machine Learning finden dieses Jahr zusammen mit noch weiteren Konferenzen als Federated AI Meeting in Stockholm statt. 
 19 - 23.8. | London | [KDD](http://www.kdd.org/kdd2018/) | Eine der angesehendsten Konferenzen zu praktischeren Aspekten von Data Mining. 
 29.-31.10. | Zürich | [CoRL](https://research.googleblog.com/2017/12/a-summary-of-first-conference-on-robot.html) | Conference on Robot Learning - initiiert von Google und mit - beim letzten mal - einer wirklich beeindruckenden Liste von Rednern. 
 3.-8.12.| Montreal |  [NIPS](https://nips.cc/Conferences/2018) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning. 
-6.5.-9.5.2019 | New Olreans | [ICLR](https://iclr.cc/Conferences/2019/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke. 
-
+6.5.-9.5.2019 | New Orleans | [ICLR](https://iclr.cc/Conferences/2019/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke. 
+15-21.6.2019 | Long Beach | [CVPR](http://cvpr2019.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
+10-15.6.2019 | Long Beach| [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning
+Autumn 2019 | Macao | [IJCAI-ECAI](https://www.ijcai-18.org/) | Die International Joint Conference on Artificial Intelligence - richtige Website und genauen Termin gibt es aber leider noch nicht. 
 
 # Konferenzen relevanter Anbieter
 
@@ -83,14 +79,13 @@ Konferenzen von Anbietern wo im nächsten Jahr KI voraussichtlich eine große Ro
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-4.-6.6. | San Francisco | [Spark+AI Summit](https://databricks.com/sparkaisummit) | Zweimal jährliches Event von databricks (einen zweiten Termin im Herbst gibt es vermutlich noch in Europa)
-7.6. | New York | [H2o world](https://h2oworld.h2o.ai/)| 
-24.-27.7. | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next18/) |
 24.-28.9. | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
 25.-28.9. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/)| (Noch der Link zum 2017er event .. aber gibt es 2018 sicher)
 1.-5.10. | Las Vegas | [SAP TechEd](https://events.sap.com/teched-global/en/cities_dates) |
+2.-4.10. | London  [Spark+AI Summit](https://databricks.com/sparkaisummit) | Zweimal jährliches Event von databricks (einen zweiten Frühjar gibt es dann vermultich in San Francisco)
 22.-25.10. | New Orleans | [Tableau Conference](https://tc17.tableau.com/tc18) | 
 26.-30.10. | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)|
 15.1-18.1.2019  | Austin | [RStudio Conf](https://www.rstudio.com/conference/) | (Talks aus dem letzten Jahr: https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/) 
-12.-15.2. | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | 
-3.-5.4. | Austin | [AnacondaCON](https://anacondacon.io/) | 
+12.-15.2.2019 | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | 
+3.-5.4.2019 | Austin | [AnacondaCON](https://anacondacon.io/) | 
+9.-11.4.2019 | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next18/) |
