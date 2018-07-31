@@ -12,7 +12,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 21.-24.8. | New York | [Jupyter Con](https://www.oreilly.com/conferences/) | Python zentrisch mit Fokus auf Data Science
 11.-14.9. | New York | [Strata](https://conferences.oreilly.com/strata) |  Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ableger gibt es auch in San Jose (5.-8.3.), London (21.-24.5.) und vermutlich in Singapur (Dezember?), aber m.E. sind die nicht so spannend.  
-11.-13.9. | London | [EARL](https://earlconf.com/) | Vermutlich die beste europäische R Konferenz im nächsten Jahr. 
+11.-13.9. | London | [EARL](https://earlconf.com/) | Vermutlich die beste europäische R Konferenz dieses Jahr. 
 20.-21.9. | Chicago | [The Data Science Conference](https://www.thedatascienceconference.com/copy-of-venue-spring2018) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. Gibt es nochmal im Mai. 
 20.-21.9. | London | [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2018) | Beste anwendungsnahe Deep Learning Event den ich in Europa gefunden habe
 25-26.9. | Barcelona | [DataEngConf](http://www.dataengconf.com/speakers-bcn18) | Spannende Konferenz die sich speziell dem Data Engineering widmet (gibt es auch in NY und SF).
