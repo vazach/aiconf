@@ -56,7 +56,7 @@ Konferenzen in denen es mehr um langfristige Fragen und Visionen geht.
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 20.-22.8. | San Francisco | [Singularty International Summit](https://su.org/summits/su-global-summit/) | Organisiert von der von Ray Kurzweil gegründeten Singularity University.
-31.8. | Berlin |  [Zeit Konferenz Künstliche Intelligenz](https://convent.de/de/archiv/zeit-events/kuenstliche-intelligenz-2017/) |  Zumindest in den letzten zwei Jahren hat Die Zeit interessante Konferenzen veranstaltet, die sich speziell KI und Gesellschaft widmen.
+31.8. | Berlin |  [Zeit Konferenz Künstliche Intelligenz](https://convent.de/de/veranstaltungen/zeit-events/kuenstliche-intelligenz-2018/) |  Spannend, weil hier hochrangige Leute aus Politik und Technik zusammen kommen. 
 25.-26.2.2019 | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
 25-26.3.2019 | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und nn der Vergangenheit mit spannenden Rednern wie Astro Teller "Captain of Moonshots" von Alphabet's X.  
 16.5.2019 | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
