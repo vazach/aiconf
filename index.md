@@ -84,7 +84,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 2.-5.10. | Las Vegas | [SAP TechEd](https://events.sap.com/teched-global/en/home) | Ableger gibt es allerdings auch in Barcelona und Bangalore
 2.-4.10. | London  | [Spark+AI Summit](https://databricks.com/sparkaisummit) | Zweimal jährliches Event von databricks (einen zweiten Frühjar gibt es dann vermultich in San Francisco)
 22.-25.10. | New Orleans | [Tableau Conference](https://tc18.tableau.com/) | 
-26.-30.10. | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)|
+26.-30.11. | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)|
 15.1-18.1.2019  | Austin | [RStudio Conf](https://www.rstudio.com/conference/) | (Talks aus dem letzten Jahr: https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/) 
 12.-15.2.2019 | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | 
 3.-5.4.2019 | Austin | [AnacondaCON](https://anacondacon.io/) | 
