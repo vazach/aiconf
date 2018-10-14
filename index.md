@@ -17,18 +17,18 @@ Datum | Ort | Konferenz  | Anmerkungen
 20.-21.9. | London | [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2018) | Beste anwendungsnahe Deep Learning Event den ich in Europa gefunden habe
 25-26.9. | Barcelona | [DataEngConf](http://www.dataengconf.com/speakers-bcn18) | Spannende Konferenz die sich speziell dem Data Engineering widmet (gibt es auch in NY und SF).
 25-27.9. | Heidelberg | [Data2Day](https://www.data2day.de/) | Nette Hacker Konferenz auf der sich besonders Data Engineers / Machine Learning Engineers wohlfühlen sollten.
-9.-11.10. | München| [GTC 2019 - GPU Technology Conference Europe](https://www.nvidia.com/en-eu/gtc/) | Von NVIDIA organisierte Konferenz mit Fokus auf AI und Deep Learning. Ableger gibt es rund um die Welt. 
 25.-26.10. | Toronto | [Deep Learning Summit Toronto](https://www.re-work.co/events/deep-learning-summit-toronto-canada-track1-2018)| Das Toronto eine der Wurzeln der Renaissance der neuronalen Netzwerke ist, erklärt vermutlich, weswegen gerade hier besonders interessante Sprecher auftauchen. Paralell gibt es auch einen anwendungsnahen Track (siehe unten). 
 24.-28.10 | Karlsruhe | [PyData & PyCon](https://de.pycon.org/)| Vermutlich die beste "Python für Data Scientists" Konferenz in Deutschland im nächsten Jahr. [PyCon](http://www.pycon.org/) und [PyData](https://pydata.org/events.html) Events gibt es sonst aber auch an allen möglichen Orten auf der Welt.
 8.11. | Kempten | [Data Pioneers 2018](https://datapioneers.tech)| Kleinere, eintägige Konferenz zu Themen rund um Data Science und Machine Learning. Findet 2018 erstmalig statt.
 25.-26.1.2019  | San Francisco | [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-san-francisco-2019) | In der Vergangenheit sehr spannende Redner wie z.B. Andrej Karpathy.
 26.-29.1.2019 | Lausanne | [Applied Machine Learning Days](https://www.appliedmldays.org/)| Viertägige technische Konferenz, in der Vergangenheit mit interessanten Sprechern von Google, Deep Mind u.a. |
-18.-22.3.2019 | San Jose | [GTC 2019 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisiert. Ich würde auch vermuten dass es - wie im letzten Jahr - Ableger in China (November), München (Oktober), Tel Aviv (Oktober), Taipeh (Mai), Washington (Oktober) und Tokyo (September) gibt. 
+17.-21.3.2019 | San Jose | [GTC 2019 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisiert. Ich würde auch vermuten dass es - wie im letzten Jahr - Ableger in China (November), München (Oktober), Tel Aviv (Oktober), Taipeh (Mai), Washington (Oktober) und Tokyo (September) gibt. 
 19.-21.3.2019 | München | [Data Festival](https://www.datafestival.de/) | Interessante Konferenz die Versuche die Lücke zwischen Wissenschaft und Praxis zu schließen. 
 15.-18.4.2019 | New York | [Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | Oreilly Konferenzreihe zu AI. Ableger gibt es auch in Peking (10.-13.4.), San Francisco (4.-7.9.2018) und London (8.-11.10.2018)
 30.4.-3.5.2019 | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco (ODSC West, 31.10.-3.11.2018), London (ODSC Europe, 19.-22.9.), Indien und in der Ukraine. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
 23.-24.5.2019 | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/spring2019) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
 10-13.7.2019 | Toulouse | [UseR](http://www.user2019.fr/) | Vermutlich die beste R Konferenz weltweit. 
+23.-25.10.2019 | ? Germany| [GTC 2019 - GPU Technology Conference Europe](https://www.nvidia.com/en-eu/gtc/) | Von NVIDIA organisierte Konferenz mit Fokus auf AI und Deep Learning. Ableger gibt es rund um die Welt. 
 
 # Konferenzen zu Anwendungsmöglichkeiten, Business Cases .. 
 
