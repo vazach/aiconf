@@ -65,13 +65,23 @@ Datum | Ort | Konferenz  | Anmerkungen
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-19 - 23.8. | London | [KDD](http://www.kdd.org/kdd2018/) | Eine der angesehendsten Konferenzen zu praktischeren Aspekten von Data Mining. 
-29.-31.10. | Zürich | [CoRL](https://research.googleblog.com/2017/12/a-summary-of-first-conference-on-robot.html) | Conference on Robot Learning - initiiert von Google und mit - beim letzten mal - einer wirklich beeindruckenden Liste von Rednern. 
-3.-8.12.| Montreal |  [NIPS](https://nips.cc/Conferences/2018) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning. 
-6.5.-9.5.2019 | New Orleans | [ICLR](https://iclr.cc/Conferences/2019/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke. 
-15-21.6.2019 | Long Beach | [CVPR](http://cvpr2019.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
-10-15.6.2019 | Long Beach| [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning
-Herbst 2019 | Macao | [IJCAI-ECAI](https://www.ijcai-18.org/) | Die International Joint Conference on Artificial Intelligence - richtige Website und genauen Termin gibt es aber leider noch nicht. 
+16.-21.11.| Awassa | [LPAR](https://easychair.org/smart-program/LPAR-22/) | International Conference on Logic for Programming Artificial Intelligence and Reasoning
+3.-8.12.| Montreal | [NIPS](https://nips.cc/Conferences/2018) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
+27.1.-1.2.2019 | Honolulu | [AAAI](https://aaai.org/Conferences/AAAI-19/) | Conference on Artificial Intelligence der  Association for the Advancement of Artificial Intelligence
+16.-18.4.2019 | Okinawa | [AISTATS](https://www.aistats.org/) | International Conference on Artificial Intelligence and Statistics
+6.-9.5.2019 | New Orleans | [ICLR](https://iclr.cc/Conferences/2019/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke.
+8.-10.5.2019 | Cosenza | [JELIA](https://jelia2019.mat.unical.it/) | European Conference on Logics in Artificial Intelligence
+13.-17.5.2019 | Montreal | [AAMAS](http://aamas2019.encs.concordia.ca/) | International Conference on Autonomous Agents and Multiagent Systems
+4.-7.6.2019 | Thessaloniki | [CPAIOR](http://cpaior2019.uowm.gr/) | International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research
+4.-7.6.2019 | Philadelphia | [LPNMR](https://sites.sju.edu/plw/lpnmr-2019/) | International Conference on Logic Programming and Non-monotonic Reasoning
+10.-15.6.2019 | Long Beach | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning
+15.-21.6.2019 | Long Beach | [CVPR](http://cvpr2019.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
+25.-28.6.2019 | Phoenix | [COLT](http://learningtheory.org/colt2019/) | Computational Learning Theory
+7.-12.7.2019 | Lisbon | [SAT](http://sat2019.tecnico.ulisboa.pt/) | International Conference on Theory and Applications of Satisfiability Testing
+11.-15.7.2019 | Berkeley | [ICAPS](https://icaps19.icaps-conference.org/) | International Conference on Automated Planning and Scheduling
+10.-16.8.2019 | Macao | [IJCAI](https://www.ijcai19.org/) | International Joint Conference on Artificial Intelligence - die wichtigste internationale Konferenz für Künstliche Intelligenz
+25.-30.8.2019 | Natal | [CADE](http://www.cade-27.info/) | International Conference on Automated Deduction
+30.9.-4.10.2019 | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
 
 # Konferenzen relevanter Anbieter
 
