@@ -62,6 +62,20 @@ Datum | Ort | Konferenz  | Anmerkungen
 25-26.3.2019 | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und nn der Vergangenheit mit spannenden Rednern wie Astro Teller "Captain of Moonshots" von Alphabet's X.  
 16.5.2019 | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
 
+# Konferenzen zu Autonomous Driving und Computer Vision
+
+Datum | Ort | Konferenz  | Anmerkungen
+------------ | ------------- | ------------- | -------------  
+16 - 21.6.2019 | Long Beach | [CVPR](http://cvpr2019.thecvf.com/) | Größte Konferenz auf dem Bereich der Computer Vision mit vielen Papern bzgl. Autonomen Fahren. 
+2020 | - | [ECCV](https://eccv2018.org/) | Sehr angesehene Konferenz auf dem Bereich der Computer Vision - findet nur alle 2 Jahre statt.
+27.10 - 3.11.2019 | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum Autonomen Fahren. 
+9 - 12.6.2019 | Paris | [Intelligent Vehicle Symposium](http://iv2019.org/) | Intelligent Vehicle Symposium.
+27 - 30.10.2019 | Auckland, NZ | [ITSC](https://itsc2019.org/) | Intelligent Transportation Systems Conference.
+21 - 23.5.2019 | Stuttgart | [Autonomous Vehicle Software Symposium](https://www.autonomousvehicle-software.com/en/) | Konferenz zum Autonomen Fahren von Software-Seite - Parallel zur Autonomous Vehicle Expo in Stuttgart.
+
+
+
+
 # Wissenschaftliche Konferenzen
 
 Datum | Ort | Konferenz  | Anmerkungen
