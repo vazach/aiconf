@@ -27,7 +27,8 @@ Datum | Ort | Konferenz  | Anmerkungen
 15.-18.4.2019 | New York | [Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | Oreilly Konferenzreihe zu AI. Ableger gibt es auch in Peking (10.-13.4.), San Francisco (4.-7.9.2018) und London (8.-11.10.2018)
 30.4.-3.5.2019 | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco (ODSC West, 31.10.-3.11.2018), London (ODSC Europe, 19.-22.9.), Indien und in der Ukraine. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
 23.-24.5.2019 | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/spring2019) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
-10-13.7.2019 | Toulouse | [UseR](http://www.user2019.fr/) | Vermutlich die beste R Konferenz weltweit. 
+10-13.7.2019 | Toulouse | [UseR](http://www.user2019.fr/) | Vermutlich die beste R Konferenz weltweit.
+09.-13.10.2019 | Berlin | [PyConDE ](https://ti.to/pycon-de/pyconde-pydata-2019)| dreitägige Konferenz mit anschließendem zweitägigen Sprint-Teil, Fokus auf Themen wie Python, Data Science und Machine Learning
 23.-25.10.2019 | ? Germany| [GTC 2019 - GPU Technology Conference Europe](https://www.nvidia.com/en-eu/gtc/) | Von NVIDIA organisierte Konferenz mit Fokus auf AI und Deep Learning. Ableger gibt es rund um die Welt. 
 
 # Konferenzen zu Anwendungsmöglichkeiten, Business Cases .. 
