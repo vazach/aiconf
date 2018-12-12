@@ -34,29 +34,29 @@ Bei diesen Konferenzen geht es darum wo KI in den nächsten Jahren in Firmen zum
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | ------------- 
-23-25.9. | Berlin | [Auto.AI](http://auto-ai.eu/en/) und [ACT](http://autoconnect-tech.com/en/) | Das spannendste was ich für 2018 an der Schnittstelle von Automotive und AI gefunden habe. Hier geht es sowohl um selbstfahrende wie auch um vernetzte Fahrzeuge.  
-9.-12.1.2019 | Las Vegas | [CES Las Vegas](https://www.ces.tech/) | Die Konferenz für Entwicklungen in der Consumer Elektronik (und inzwischen auch der Elektronik im Auto).  
-12.-13.2.2019 | London | [Move](https://www.terrapinn.com/exhibition/move/agenda.stm) | Spannende neue Konferenz zur Zukunft der Mobilität (auch mit Autonomen Fahren) 
+11.-12.3. | Berlin | [Tech.AD](https://www.autonomous-driving-berlin.com/)| Interessantes Deutsches Event zum autonomen Fahren. 
 10.-11.4.2019 | Berlin |[bitkom BigData und AI Summits](https://www.big-data.ai/) | Die bitkom Big Data Events waren die letzten Jahre *der* Ort um zu sehen wie Big Data im Deutschen Mainstream ankommt. Im nächsten Jahr mit neuem Format und Co-Located mit hub.berlin (und in Berlin). Streben danach ein sehr großes Tech Event in Deutschland auf die Beine zu stellen (5000+ Teilnehmer). 
-Mai? 2019 | Amsterdam | [The Next Web Conference](https://thenextweb.com/conference/) | Riesiger allgemeiner Event mit (im letzten Jahr) einem Machine Learning Track. 
+21.-23.5.2019 | Stuttgart | Autonomous Vehicle Technolgy Expo (https://www.autonomousvehicletechnologyexpo.com/en/) | Messe zum autonomenen Fahren (level 2-5). Co-Located mit vielen [weiteren Events zu IT im Fahrzeug](https://www.autonomousvehicletechnologyexpo.com/en/). 
+16.5.2019 | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
 11.6.2019 | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe oben) San Francisco (18-20.9.2018), Singapore (18.9.2018) New York (5.-6.12.2018) und Cape Town (13.-15.11.2018)
-8.-11.7.2019 | Hongkong | [RISE](https://riseconf.com/) | Große Technologie Konferenz mit einer TalkRobot Teilkonferenz zu KI und Robotern (ist von den gleichen Organisatoren wir der WebSummit).  
 30.-31.7.2019 | Hongkong | [AI Summit Hongkong](https://theaisummit.com/) | Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
+25-26.9. | Berlin | [Auto.AI](http://auto-ai.eu/en/) und [ACT](http://autoconnect-tech.com/en/) | Spannende Konferenz an der Schnittstelle von Automotive und AI gefunden habe. Hier geht es sowohl um selbstfahrende wie auch um vernetzte Fahrzeuge.  
 9.-10.10. | Amsterdam | [World Summit AI](http://worldsummit.ai/) | Großes, allgemeines und eher wenig technisches KI Event. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
-4.-7.11.2019 | WebSummit | [WebSummit](https://websummit.com/)| Größte allgemeine IT Konferenz in Europa. Sicher auch im nächsten Jahr wieder mit großem KI Anteil. 
 
 
-# Konferenzen zu langfristigen Perspektiven, gesellschaftlichen Aspekten, AGI .. 
+# Allgemeinere Konferenzen zu Trands in Technologie, Gesellschaft usw.  .. 
 
-Konferenzen in denen es mehr um langfristige Fragen und Visionen geht. 
+Konferenzen mit noch allgemeineren Themen - allgemein Technologie, Mobilität oder Gesellschaft - bei denen KI aber im nächsten Jahr sicher eine große Rolle spielen wird. 
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-20.-22.8. | San Francisco | [Singularty International Summit](https://su.org/summits/su-global-summit/) | Organisiert von der von Ray Kurzweil gegründeten Singularity University.
-31.8. | Berlin |  [Zeit Konferenz Künstliche Intelligenz](https://convent.de/de/veranstaltungen/zeit-events/kuenstliche-intelligenz-2018/) |  Spannend, weil hier hochrangige Leute aus Politik und Technik zusammen kommen. 
+9.-12.1.2019 | Las Vegas | [CES Las Vegas](https://www.ces.tech/) | Die Konferenz für Entwicklungen in der Consumer Elektronik (und inzwischen auch der Elektronik im Auto).  
 25.-26.2.2019 | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
+12.-13.2.2019 | London | [Move](https://www.terrapinn.com/exhibition/move/agenda.stm) | Spannende neue Konferenz zur Zukunft der Mobilität (auch mit Autonomen Fahren) 
 25-26.3.2019 | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und nn der Vergangenheit mit spannenden Rednern wie Astro Teller "Captain of Moonshots" von Alphabet's X.  
-16.5.2019 | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
+Mai? 2019 | Amsterdam | [The Next Web Conference](https://thenextweb.com/conference/) | Riesiger allgemeiner Event mit (im letzten Jahr) einem Machine Learning Track.
+8.-11.7.2019 | Hongkong | [RISE](https://riseconf.com/) | Große Technologie Konferenz mit einer TalkRobot Teilkonferenz zu KI und Robotern (ist von den gleichen Organisatoren wir der WebSummit). 
+4.-7.11.2019 | WebSummit | [WebSummit](https://websummit.com/)| Größte allgemeine IT Konferenz in Europa. Sicher auch im nächsten Jahr wieder mit großem KI Anteil. 
 
 # Wissenschaftliche Konferenzen
 
@@ -81,9 +81,7 @@ Konferenzen von Anbietern wo im nächsten Jahr KI voraussichtlich eine große Ro
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 25.-28.9. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/)| 
-2.-5.10. | Las Vegas | [SAP TechEd](https://events.sap.com/teched-global/en/home) | Ableger gibt es allerdings auch in Barcelona und Bangalore
 2.-4.10. | London  | [Spark+AI Summit](https://databricks.com/sparkaisummit) | Zweimal jährliches Event von databricks (einen zweiten Frühjar gibt es dann vermultich in San Francisco)
-22.-25.10. | New Orleans | [Tableau Conference](https://tc18.tableau.com/) | 
 15.1-18.1.2019  | Austin | [RStudio Conf](https://www.rstudio.com/conference/) | (Talks aus dem letzten Jahr: https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/) 
 12.-15.2.2019 | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | 
 17.-21.3.2019 | San Francisco| [GTC 2019 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisierte Konferenz mit Fokus auf AI und Deep Learning. Ableger gibt es rund um die Welt, im Herbst sicher auch wieder in Deutschland. 
