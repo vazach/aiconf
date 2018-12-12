@@ -36,7 +36,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | ------------- 
 11.-12.3. | Berlin | [Tech.AD](https://www.autonomous-driving-berlin.com/)| Interessantes Deutsches Event zum autonomen Fahren. 
 10.-11.4.2019 | Berlin |[bitkom BigData und AI Summits](https://www.big-data.ai/) | Die bitkom Big Data Events waren die letzten Jahre *der* Ort um zu sehen wie Big Data im Deutschen Mainstream ankommt. Im nächsten Jahr mit neuem Format und Co-Located mit hub.berlin (und in Berlin). Streben danach ein sehr großes Tech Event in Deutschland auf die Beine zu stellen (5000+ Teilnehmer). 
-21.-23.5.2019 | Stuttgart | Autonomous Vehicle Technolgy Expo (https://www.autonomousvehicletechnologyexpo.com/en/) | Messe zum autonomenen Fahren (level 2-5). Co-Located mit vielen [weiteren Events zu IT im Fahrzeug](https://www.autonomousvehicletechnologyexpo.com/en/). 
+21.-23.5.2019 | Stuttgart | [Autonomous Vehicle Technolgy Expo](https://www.autonomousvehicletechnologyexpo.com/en/) | Messe zum autonomenen Fahren (level 2-5). Co-Located mit vielen [weiteren Events zu IT im Fahrzeug](https://www.autonomousvehicletechnologyexpo.com/en/). 
 16.5.2019 | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
 11.6.2019 | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe oben) San Francisco (18-20.9.2018), Singapore (18.9.2018) New York (5.-6.12.2018) und Cape Town (13.-15.11.2018)
 30.-31.7.2019 | Hongkong | [AI Summit Hongkong](https://theaisummit.com/) | Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
