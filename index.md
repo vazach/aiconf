@@ -22,6 +22,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 19.-20.9.2019 | London | [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2019) | Beste anwendungsnahe Deep Learning Event den ich in Europa gefunden habe. Co-Located mit dem ML for DevOps Summit. 
 09.-13.10.2019 | Berlin | [PyConDE ](https://ti.to/pycon-de/pyconde-pydata-2019)| dreitägige Konferenz mit anschließendem zweitägigen Sprint-Teil, Fokus auf Themen wie Python, Data Science und Machine Learning
 23.-26.9. | New York | [Strata](https://conferences.oreilly.com/strata) |  Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ableger gibt es auch in San Francisco (25.-28.3.) und London (29.4.-2.5.).
+31.10-1.11. | Macao | [ROScon](https://roscon.ros.org/2019/) | Entwickler Konferenz zum Robot Operating System. Direkt vor der wissenschaftlichen IROS Konferenz (s.u.).
 ?.9. | ? | [Data2Day](https://www.data2day.de/) | Nette Hacker Konferenz auf der sich besonders Data Engineers / Machine Learning Engineers wohlfühlen sollten. Für 2019 noch nicht offiziell angekündigt.
 
 
