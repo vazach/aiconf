@@ -43,7 +43,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 16.5. | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
 11.6. | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe oben) San Francisco (18-20.9.2018), Singapore (18.9.2018) New York (5.-6.12.2018) und Cape Town (13.-15.11.2018)
 30.-31.7. | Hongkong | [AI Summit Hongkong](https://theaisummit.com/) | Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
-17.-19. | Brüssel | [AutoSense](https://auto-sens.com/autosens-brussels/) | Konferenz zu Perception im Fahrzeug Kontext 
+18.9. | Brüssel | [AutoSense](https://auto-sens.com/autosens-brussels/) | Konferenz zu Perception im Fahrzeug Kontext 
 23.-26.9. | New York | [Strata](https://conferences.oreilly.com/strata) |  Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ableger gibt es auch in San Francisco (25.-28.3.) und London (29.4.-2.5.).
 25-26.9. | Berlin | [Auto.AI](http://auto-ai.eu/en/) und [ACT](http://autoconnect-tech.com/en/) | Spannende Konferenz an der Schnittstelle von Automotive und AI gefunden habe. Hier geht es sowohl um selbstfahrende wie auch um vernetzte Fahrzeuge.  
 9.-10.10. | Amsterdam | [World Summit AI](http://worldsummit.ai/) | Großes, allgemeines und eher wenig technisches KI Event. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
@@ -108,7 +108,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 
 # Noch mehr ... 
 Ich hab mich hier bewusst auf wenige Konferenzen konzentriert. Wenn wir Dich noch nicht das richtige dabei war, dann findest Du das vielleicht in einer Dieser Listen: 
-* [(Übersicht Data Science Konferenzen](https://www.kdnuggets.com/meetings/) 
+* [Übersicht Data Science Konferenzen](https://www.kdnuggets.com/meetings/) 
 * [Übersicht Data Science Konferenzen](https://github.com/WiMLDS/conferences)
 * [Intelligent Car Events](https://connectedautomateddriving.eu/events/)
 * [Autonomous Vehicle Conferences](https://hackernoon.com/top-autonomous-vehicle-conferences-to-attend-in-2018-19-d3a526a41a9a)
