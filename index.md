@@ -19,6 +19,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 23.-24.5.2019 | Boston | [Deep Learning Summit / Deep Learning for Robotis](https://www.re-work.co/events/deep-learning-for-robotics-summit-boston-2019) | Kommerzielle Konferenz mit oft spannenden Rednern. 
 23.-24.5.2019 | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/spring2019) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
 12.-14.7.2017 | London | [PyData London](https://pydata.org/london2019/) | Python (und auch Julia und R) für Data Science 
+8.-9.7.2019 | Austin | [SciPy](https://scipy2018.scipy.org/ehome/index.php?eventid=299527&) | Scientific Computing mit Python
 8.-14.7.2019 | Basel | [EuroPython](https://ep2018.europython.eu/en/events/keynotes/) | Große Europäische Python Konferenz
 10-13.7.2019 | Toulouse | [UseR](http://www.user2019.fr/) | Vermutlich die beste R Konferenz weltweit.
 19.-20.9.2019 | London | [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2019) | Beste anwendungsnahe Deep Learning Event den ich in Europa gefunden habe. Co-Located mit dem ML for DevOps Summit. 
@@ -106,7 +107,11 @@ Datum | Ort | Konferenz  | Anmerkungen
 
 # Noch mehr ... 
 Ich hab mich hier bewusst auf wenige Konferenzen konzentriert. Wenn wir Dich noch nicht das richtige dabei war, dann findest Du das vielleicht in einer Dieser Listen: 
+* [(Übersicht Data Science Konferenzen](https://www.kdnuggets.com/meetings/) 
 * [Übersicht Data Science Konferenzen](https://github.com/WiMLDS/conferences)
 * [Intelligent Car Events](https://connectedautomateddriving.eu/events/)
 * [Autonomous Vehicle Conferences](https://hackernoon.com/top-autonomous-vehicle-conferences-to-attend-in-2018-19-d3a526a41a9a)
 * [Computer Vision und Autonome Fahrzeuge](https://mighty.ai/blog/the-best-events-to-attend-in-2019-for-computer-vision-in-autonomous-vehicles/) 
+* [Ranking wissenschaftlicher Konferenzen](http://www.conferenceranks.com/index.html#data) 
+* [Top Computer Science Conferences](http://www.guide2research.com/topconf/) 
+
