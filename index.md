@@ -59,6 +59,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 25.-26.2.2019 | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
 12.-13.2.2019 | London | [Move](https://www.terrapinn.com/exhibition/move/agenda.stm) | Spannende neue Konferenz zur Zukunft der Mobilität (auch mit Autonomen Fahren) 
 25-26.3.2019 | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und nn der Vergangenheit mit spannenden Rednern wie Astro Teller "Captain of Moonshots" von Alphabet's X.  
+20.-23.5.2019 | Toronto | [Collision](https://collisionconf.com/) | Große allgemeine Technologiekonferenz -"fastest growing tech conference in America"
 Mai? 2019 | Amsterdam | [The Next Web Conference](https://thenextweb.com/conference/) | Riesiger allgemeiner Event mit (im letzten Jahr) einem Machine Learning Track.
 8.-11.7.2019 | Hongkong | [RISE](https://riseconf.com/) | Große Technologie Konferenz mit einer TalkRobot Teilkonferenz zu KI und Robotern (ist von den gleichen Organisatoren wir der WebSummit). 
 4.-7.11.2019 | WebSummit | [WebSummit](https://websummit.com/)| Größte allgemeine IT Konferenz in Europa. Sicher auch im nächsten Jahr wieder mit großem KI Anteil. 
