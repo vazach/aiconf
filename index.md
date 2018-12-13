@@ -58,6 +58,18 @@ Mai? 2019 | Amsterdam | [The Next Web Conference](https://thenextweb.com/confere
 8.-11.7.2019 | Hongkong | [RISE](https://riseconf.com/) | Große Technologie Konferenz mit einer TalkRobot Teilkonferenz zu KI und Robotern (ist von den gleichen Organisatoren wir der WebSummit). 
 4.-7.11.2019 | WebSummit | [WebSummit](https://websummit.com/)| Größte allgemeine IT Konferenz in Europa. Sicher auch im nächsten Jahr wieder mit großem KI Anteil. 
 
+# Konferenzen zu Autonomous Driving und Computer Vision
+
+Datum | Ort | Konferenz  | Anmerkungen
+------------ | ------------- | ------------- | -------------  
+21-23.5.2019 | Stuttgart | [Autonomous Vehicle Software Symposium](https://www.autonomousvehicle-software.com/en/) | Konferenz zu ML, KI und CV für Autonomes Fahren - Teil der Autonomous Vehicle Expo in Stuttgart.
+9-12.6.2019 | Paris | [Intelligent Vehicle Symposium](http://iv2019.org/) | Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
+16-21.6.2019 | Long Beach | [CVPR](http://cvpr2019.thecvf.com/) | Größte Konferenz auf dem Bereich der Computer Vision mit vielen Papern bzgl. autonomen Fahren. 
+27-30.10.2019 | Auckland | [ITSC](https://itsc2019.org/) | Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
+27.10-3.11.2019 | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum autonomen Fahren. 
+2020 | - | [ECCV](https://eccv2018.org/) | Sehr angesehene Konferenz auf dem Bereich der Computer Vision - findet nur alle 2 Jahre statt.
+
+
 # Wissenschaftliche Konferenzen
 
 Datum | Ort | Konferenz  | Anmerkungen
