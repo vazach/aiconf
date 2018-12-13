@@ -14,6 +14,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 26.-29.1.2019 | Lausanne | [Applied Machine Learning Days](https://www.appliedmldays.org/)| Viertägige technische Konferenz, in der Vergangenheit mit interessanten Sprechern von Google, Deep Mind u.a.
 19.-21.3.2019 | München | [Data Festival](https://www.datafestival.de/) | Interessante Konferenz die Versuche die Lücke zwischen Wissenschaft und Praxis zu schließen. 
 6.-7.3.2019 | Mountain View | [TensorFlow DevSummit](https://www.tensorflow.org/dev-summit/)| Der technische Event zu Tensor Flow 
+27.-28.3. | San Francisco | [ScaledML](http://scaledml.org/2019/) | Der Event für Machine Learning Engineering 
 30.4.-3.5.2019 | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco (ODSC West, 31.10.-3.11.2018), London (ODSC Europe, 19.-22.9.), Indien und in der Ukraine. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
 23.-24.5.2019 | Boston | [Deep Learning Summit / Deep Learning for Robotis](https://www.re-work.co/events/deep-learning-for-robotics-summit-boston-2019) | Kommerzielle Konferenz mit oft spannenden Rednern. 
 23.-24.5.2019 | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/spring2019) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
