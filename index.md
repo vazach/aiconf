@@ -18,6 +18,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 30.4.-3.5.2019 | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco (ODSC West, 31.10.-3.11.2018), London (ODSC Europe, 19.-22.9.), Indien und in der Ukraine. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
 23.-24.5.2019 | Boston | [Deep Learning Summit / Deep Learning for Robotis](https://www.re-work.co/events/deep-learning-for-robotics-summit-boston-2019) | Kommerzielle Konferenz mit oft spannenden Rednern. 
 23.-24.5.2019 | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/spring2019) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
+12.-14.7.2017 | London | [PyData London](https://pydata.org/london2019/) | Python (und auch Julia und R) für Data Science 
 8.-14.7.2019 | Basel | [EuroPython](https://ep2018.europython.eu/en/events/keynotes/) | Große Europäische Python Konferenz
 10-13.7.2019 | Toulouse | [UseR](http://www.user2019.fr/) | Vermutlich die beste R Konferenz weltweit.
 19.-20.9.2019 | London | [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2019) | Beste anwendungsnahe Deep Learning Event den ich in Europa gefunden habe. Co-Located mit dem ML for DevOps Summit. 
@@ -42,6 +43,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 16.5.2019 | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
 11.6.2019 | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe oben) San Francisco (18-20.9.2018), Singapore (18.9.2018) New York (5.-6.12.2018) und Cape Town (13.-15.11.2018)
 30.-31.7.2019 | Hongkong | [AI Summit Hongkong](https://theaisummit.com/) | Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
+17.-19.2019 | Brüssel | [AutoSense](https://auto-sens.com/autosens-brussels/) | Konferenz zu Perception im Fahrzeug Kontext 
 25-26.9.2019 | Berlin | [Auto.AI](http://auto-ai.eu/en/) und [ACT](http://autoconnect-tech.com/en/) | Spannende Konferenz an der Schnittstelle von Automotive und AI gefunden habe. Hier geht es sowohl um selbstfahrende wie auch um vernetzte Fahrzeuge.  
 9.-10.10.2019 | Amsterdam | [World Summit AI](http://worldsummit.ai/) | Großes, allgemeines und eher wenig technisches KI Event. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
 
@@ -73,6 +75,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 10.-15.6.2019 | Long Beach | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning.
 15.-21.6.2019 | Long Beach | [CVPR](http://cvpr2019.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
 25.-28.6.2019 | Phoenix | [COLT](http://learningtheory.org/colt2019/) | Computational Learning Theory
+30.6.2019 | Amsterdam | [DEEM](http://deem-workshop.org/) | Workshop on Data Management for End-to-End Machine Learning. Kleiner Workshop auf einer angesehenen Datenbank Konferenz (SIGMOD/PODS) - aber ein sehr aktuelles und relevantes Thema mit tollen Leuten.  
 11.-15.7.2019 | Berkeley | [ICAPS](https://icaps19.icaps-conference.org/) | International Conference on Automated Planning and Scheduling
 10.-16.8.2019 | Macao | [IJCAI](https://www.ijcai19.org/) | International Joint Conference on Artificial Intelligence - die wichtigste internationale Konferenz für Künstliche Intelligenz
 30.9.-4.10.2019 | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
@@ -91,11 +94,19 @@ Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 15.1-18.1.2019  | Austin | [RStudio Conf](https://www.rstudio.com/conference/) | (Talks aus dem letzten Jahr: https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/) 
 12.-15.2.2019 | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | 
+18.-21.3.2019 | Barcelona | [DataWorks Summit](https://dataworkssummit.com/barcelona-2019/) | Hortonworks/Hadoop Event 
 17.-21.3.2019 | San Francisco| [GTC 2019 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisierte Konferenz mit Fokus auf AI und Deep Learning. Ableger gibt es rund um die Welt, im Herbst sicher auch wieder in Deutschland. 
 3.-5.4.2019 | Austin | [AnacondaCON](https://anacondacon.io/) | 
-9.-11.4.2019 | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next18/) | 
+9.-11.4.2019 | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next/sf) | Google Cloud Entwickler Event (und ja, es gibt noch die allgemeine Entwicklerkonferenz [Google IO](https://events.google.com/io/?authuser=0) - aber dafür bekommt man soweiso kein Ticket ;) )
 23.-25.4. | San Francicsco  | [Spark+AI Summit](https://databricks.com/sparkaisummit) | Zweimal jährliches Event von databricks (einen zweiten im Herbst Frühjar gibt es dann vermultich in London)
-?.5.2019 | San Francisco | [Google IO](https://events.google.com/io/?authuser=0) | Wichtigste Google Entwicklerkonferenz 
+4.-5.7.2019 | Peking | [Baidu Create](http://create.baidu.com/) | Neuigkeiten aus Baidus AI Strategie, besonders natürlich auch aus dem Projekt Apollo.  
 4.-8.11.2019 | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
 19.-22.11. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/)| Jährliches Salesforce Event
 2.-16.12.2019 | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)|
+
+# Noch mehr ... 
+Ich hab mich hier bewusst auf wenige Konferenzen konzentriert. Wenn wir Dich noch nicht das richtige dabei war, dann findest Du das vielleicht in einer Dieser Listen: 
+* [Übersicht Data Science Konferenzen](https://github.com/WiMLDS/conferences)
+* [Intelligent Car Events](https://connectedautomateddriving.eu/events/)
+* [Autonomous Vehicle Conferences](https://hackernoon.com/top-autonomous-vehicle-conferences-to-attend-in-2018-19-d3a526a41a9a)
+* [Computer Vision und Autonome Fahrzeuge](https://mighty.ai/blog/the-best-events-to-attend-in-2019-for-computer-vision-in-autonomous-vehicles/) 
