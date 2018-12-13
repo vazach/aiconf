@@ -76,8 +76,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 30.9.-4.10.2019 | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
 27.10-3.11.2019 | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum autonomen Fahren. 
 27-30.10.2019 | Auckland | [ITSC](https://itsc2019.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
-3.-8.11.2019 | Macao | [IROS](https://www.iros2019.org/) | IEEE/RSJ International Conference on 
-Intelligent Robots and Systems - Wichtige Konferenz zur KI für Roboter
+3.-8.11.2019 | Macao | [IROS](https://www.iros2019.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems Wichtige Konferenz zur KI für Roboter
 ?.12.2020| Vancouver | [NeurIPS](https://nips.cc/Conferences/2018) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
 
 Potentiell in Zukunft interessant, aber noch ohne richtige Ankündigung: ECCV 2020 (Europäische Konferenz zum Computer Vision)
