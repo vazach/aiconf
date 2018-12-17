@@ -48,7 +48,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 9.-10.10. | Amsterdam | [World Summit AI](http://worldsummit.ai/) | Großes, allgemeines und eher wenig technisches KI Event. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
 
 
-# Allgemeinere Konferenzen zu Trands in Technologie, Gesellschaft usw.  .. 
+# Allgemeinere Konferenzen zu Trends in Technologie, Gesellschaft usw.  .. 
 
 Konferenzen mit noch allgemeineren Themen - allgemein Technologie, Mobilität oder Gesellschaft - bei denen KI aber im nächsten Jahr sicher eine große Rolle spielen wird. 
 
