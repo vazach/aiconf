@@ -12,7 +12,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------    
 25.-26.1.  | San Francisco | [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-san-francisco-2019) | In der Vergangenheit sehr spannende Redner wie z.B. Andrej Karpathy.
 26.-29.1. | Lausanne | [Applied Machine Learning Days](https://www.appliedmldays.org/)| Viertägige technische Konferenz, in der Vergangenheit mit interessanten Sprechern von Google, Deep Mind u.a.
-19.-21.3. | München | [Data Festival](https://www.datafestival.de/) | Interessante Konferenz die Versuche die Lücke zwischen Wissenschaft und Praxis zu schließen. 
 6.-7.3. | Mountain View | [TensorFlow DevSummit](https://www.tensorflow.org/dev-summit/)| Der technische Event zu Tensor Flow 
 27.-28.3. | San Francisco | [ScaledML](http://scaledml.org/2019/) | Der Event für Machine Learning Engineering 
 30.4.-3.5. | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco (ODSC West, 31.10.-3.11.2018), London (ODSC Europe, 19.-22.9.), Indien und in der Ukraine. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
@@ -37,7 +36,7 @@ Bei diesen Konferenzen geht es darum wo KI in den nächsten Jahren in Firmen zum
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | ------------- 
 11.-12.3. | Berlin | [Tech.AD](https://www.autonomous-driving-berlin.com/)| Interessantes Deutsches Event zum autonomen Fahren. 
-10.-11.4. | Berlin |[bitkom BigData und AI Summits](https://www.big-data.ai/) | Die bitkom Big Data Events waren die letzten Jahre *der* Ort um zu sehen wie Big Data im Deutschen Mainstream ankommt. Im nächsten Jahr mit neuem Format und Co-Located mit hub.berlin (und in Berlin). Streben danach ein sehr großes Tech Event in Deutschland auf die Beine zu stellen (5000+ Teilnehmer). 
+19.-21.3. | München | [Data Festival](https://www.datafestival.de/) | Interessante Konferenz die Versuche die Lücke zwischen Wissenschaft und Praxis zu schließen. 
 15.-18.4. | New York | [Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | Oreilly Konferenzreihe zu AI. 
 21-23.5. | Stuttgart | [Autonomous Vehicle Software Symposium](https://www.autonomousvehicle-software.com/en/) | Konferenz zu ML, KI und CV für Autonomes Fahren - Teil der [Autonomous Vehicle Expo in Stuttgart](https://www.autonomousvehicletechnologyexpo.com/en/).
 16.5. | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
@@ -56,9 +55,11 @@ Konferenzen mit noch allgemeineren Themen - allgemein Technologie, Mobilität od
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 9.-12.1. | Las Vegas | [CES Las Vegas](https://www.ces.tech/) | Die Konferenz für Entwicklungen in der Consumer Elektronik (und inzwischen auch der Elektronik im Auto).  
+27-28.1. | Honululu | [AIES Conference](http://www.aies-conference.com/) | Artificial Intelligence, Ethics and Society
 25.-26.2. | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
 12.-13.2. | London | [Move](https://www.terrapinn.com/exhibition/move/agenda.stm) | Spannende neue Konferenz zur Zukunft der Mobilität (auch mit Autonomen Fahren) 
 25-26.3. | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und nn der Vergangenheit mit spannenden Rednern wie Astro Teller "Captain of Moonshots" von Alphabet's X.  
+10.-11.4. | Berlin |[hub.berlin und bitkom BigData und AI Summits](https://www.big-data.ai/) | Die bitkom Big Data Events waren die letzten Jahre *der* Ort um zu sehen wie Big Data im Deutschen Mainstream ankommt. Im nächsten Jahr mit neuem Format und Co-Located mit hub.berlin (und in Berlin). Streben danach ein sehr großes Tech Event in Deutschland auf die Beine zu stellen (5000+ Teilnehmer).
 20.-23.5. | Toronto | [Collision](https://collisionconf.com/) | Große allgemeine Technologiekonferenz -"fastest growing tech conference in America"
 Mai?  | Amsterdam | [The Next Web Conference](https://thenextweb.com/conference/) | Riesiger allgemeiner Event mit (im letzten Jahr) einem Machine Learning Track.
 8.-11.7. | Hongkong | [RISE](https://riseconf.com/) | Große Technologie Konferenz mit einer TalkRobot Teilkonferenz zu KI und Robotern (ist von den gleichen Organisatoren wir der WebSummit). 
@@ -79,6 +80,8 @@ Datum | Ort | Konferenz  | Anmerkungen
 25.-28.6. | Phoenix | [COLT](http://learningtheory.org/colt2019/) | Computational Learning Theory
 30.6. | Amsterdam | [DEEM](http://deem-workshop.org/) | Workshop on Data Management for End-to-End Machine Learning. Kleiner Workshop auf einer angesehenen Datenbank Konferenz (SIGMOD/PODS) - aber ein sehr aktuelles und relevantes Thema mit tollen Leuten.  
 11.-15.7. | Berkeley | [ICAPS](https://icaps19.icaps-conference.org/) | International Conference on Automated Planning and Scheduling
+22.-26.7. | Tel Aviv | [UAI](http://auai.org/uai2019/) | Conference on Uncertainty in Artificial Intelligence
+28.7.-2.8. | Florenz | [ACL](http://www.acl2019.org/EN/index.xhtml) | Annual Meeting of the Association for Computational Linguistics, wichtige Konferenz auf dem Gebiet der Sprachverarbeitung. 
 10.-16.8. | Macao | [IJCAI](https://www.ijcai19.org/) | International Joint Conference on Artificial Intelligence - die wichtigste internationale Konferenz für Künstliche Intelligenz
 30.9.-4.10. | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
 27.10-3.11. | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum autonomen Fahren. 
