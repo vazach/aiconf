@@ -86,7 +86,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 ?.6. | San Jose | [WWDC](https://developer.apple.com/wwdc/) | Worldwide Developer Conference von Apple  
 4.-5.7. | Peking | [Baidu Create](http://create.baidu.com/) | Neuigkeiten aus Baidus AI Strategie, besonders natürlich auch aus dem Projekt Apollo.  
 4.-8.11. | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
-19.-22.11. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/)| Jährliches Salesforce Event
 2.-16.12.2019 | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)| Der Amazon Cloud Event. 
 
 # Allgemeinere Konferenzen zu Trends in Technologie, Gesellschaft usw.  .. 
