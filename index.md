@@ -10,12 +10,12 @@ Bei diesen Konferenzen geht es um das *wie* der Erstellung von KI Systemen (im D
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------    
-25.-26.1.  | San Francisco | [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-san-francisco-2019) | In der Vergangenheit sehr spannende Redner wie z.B. Andrej Karpathy.
+
 26.-29.1. | Lausanne | [Applied Machine Learning Days](https://www.appliedmldays.org/)| Viertägige technische Konferenz, in der Vergangenheit mit interessanten Sprechern von Google, Deep Mind u.a.
 6.-7.3. | Mountain View | [TensorFlow DevSummit](https://www.tensorflow.org/dev-summit/)| Der technische Event zu Tensor Flow 
 27.-28.3. | San Francisco | [ScaledML](http://scaledml.org/2019/) | Der Event für Machine Learning Engineering 
 30.4.-3.5. | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco (ODSC West, 31.10.-3.11.2018), London (ODSC Europe, 19.-22.9.), Indien und in der Ukraine. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
-23.-24.5. | Boston | [Deep Learning Summit / Deep Learning for Robotis](https://www.re-work.co/events/deep-learning-for-robotics-summit-boston-2019) | Kommerzielle Konferenz mit oft spannenden Rednern. 
+ 
 23.-24.5. | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/spring2019) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
 12.-14.7. | London | [PyData London](https://pydata.org/london2019/) | Python (und auch Julia und R) für Data Science 
 8.-9.7. | Austin | [SciPy](https://scipy2018.scipy.org/ehome/index.php?eventid=299527&) | Scientific Computing mit Python
@@ -35,11 +35,13 @@ Bei diesen Konferenzen geht es darum wo KI in den nächsten Jahren in Firmen zum
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | ------------- 
+25.-26.1.  | San Francisco | [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-san-francisco-2019) | In der Vergangenheit sehr spannende Redner wie z.B. Andrej Karpathy.
 11.-12.3. | Berlin | [Tech.AD](https://www.autonomous-driving-berlin.com/)| Interessantes Deutsches Event zum autonomen Fahren. 
 19.-21.3. | München | [Data Festival](https://www.datafestival.de/) | Interessante Konferenz die Versuche die Lücke zwischen Wissenschaft und Praxis zu schließen. 
 15.-18.4. | New York | [Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | Oreilly Konferenzreihe zu AI. 
-21-23.5. | Stuttgart | [Autonomous Vehicle Software Symposium](https://www.autonomousvehicle-software.com/en/) | Konferenz zu ML, KI und CV für Autonomes Fahren - Teil der [Autonomous Vehicle Expo in Stuttgart](https://www.autonomousvehicletechnologyexpo.com/en/).
 16.5. | Berlin | [Rise of AI](https://riseof.ai/) | Wichtige Deutsche Konferenz zu Trends in KI
+21-23.5. | Stuttgart | [Autonomous Vehicle Software Symposium](https://www.autonomousvehicle-software.com/en/) | Konferenz zu ML, KI und CV für Autonomes Fahren - Teil der [Autonomous Vehicle Expo in Stuttgart](https://www.autonomousvehicletechnologyexpo.com/en/).
+23.-24.5. | Boston | [Deep Learning (for Robots)](https://www.re-work.co/events/deep-learning-for-robotics-summit-boston-2019) | Spannende kommerzielle high level Konferenz zu Deep Learning - auch in der Anwendung auf Roboter.
 11.6. | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe oben) San Francisco (18-20.9.2018), Singapore (18.9.2018) New York (5.-6.12.2018) und Cape Town (13.-15.11.2018)
 30.-31.7. | Hongkong | [AI Summit Hongkong](https://theaisummit.com/) | Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
 18.9. | Brüssel | [AutoSense](https://auto-sens.com/autosens-brussels/) | Konferenz zu Perception im Fahrzeug Kontext 
