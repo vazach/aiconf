@@ -1,4 +1,4 @@
-# Gute KI Konferenzen 2018 - 2019
+# Gute KI Konferenzen 2019
 
 Diese Liste sammelt KI Konferenzen in 2018-2019 die ([meiner](http://vzach.de) Meinung nach) wirklich die Zeit wert sind (inkl. der für die Anreise aus Deutschland). 
 
@@ -56,6 +56,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 9.-12.1. | Las Vegas | [CES Las Vegas](https://www.ces.tech/) | Die Konferenz für Entwicklungen in der Consumer Elektronik (und inzwischen auch der Elektronik im Auto).  
 27-28.1. | Honululu | [AIES Conference](http://www.aies-conference.com/) | Artificial Intelligence, Ethics and Society
+25.-28.2. | Barcelona | [MVC Barcelona](https://www.mwcbarcelona.com/) | Mobile World Congress Barcelona - riesiger (mehr als 100.000 Teilnehmer), auf Vernetzung fokussierter Tech-Event. Im nächsten Jahr auch mit Fokus auf Automotive and AI. 
 25.-26.2. | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
 12.-13.2. | London | [Move](https://www.terrapinn.com/exhibition/move/agenda.stm) | Spannende neue Konferenz zur Zukunft der Mobilität (auch mit Autonomen Fahren) 
 25-26.3. | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und nn der Vergangenheit mit spannenden Rednern wie Astro Teller "Captain of Moonshots" von Alphabet's X.  
@@ -83,6 +84,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 22.-26.7. | Tel Aviv | [UAI](http://auai.org/uai2019/) | Conference on Uncertainty in Artificial Intelligence
 28.7.-2.8. | Florenz | [ACL](http://www.acl2019.org/EN/index.xhtml) | Annual Meeting of the Association for Computational Linguistics, wichtige Konferenz auf dem Gebiet der Sprachverarbeitung. 
 10.-16.8. | Macao | [IJCAI](https://www.ijcai19.org/) | International Joint Conference on Artificial Intelligence - die wichtigste internationale Konferenz für Künstliche Intelligenz
+10-20.9. | Frankfurt | [IAA](https://www.iaa.de/) | Die größte Automobil Messe in Deutschland. Auch verbunden mit Konferenzen (IAA und NMW) wird KI und autonomes Fahren sicher immer wieder ein Thema sein. 
 30.9.-4.10. | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
 27.10-3.11. | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum autonomen Fahren. 
 27-30.10. | Auckland | [ITSC](https://itsc2019.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
@@ -97,17 +99,19 @@ Konferenzen von Anbietern wo im nächsten Jahr KI voraussichtlich eine große Ro
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-15.1-18.1.  | Austin | [RStudio Conf](https://www.rstudio.com/conference/) | (Talks aus dem letzten Jahr: https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/) 
-12.-15.2. | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | 
+15.1-18.1.  | Austin | [RStudio Conf](https://www.rstudio.com/conference/) |  (Talks aus dem letzten Jahr: https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/) 
+12.-15.2. | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | Die IBM Entwickler Konferenz. 
 18.-21.3. | Barcelona | [DataWorks Summit](https://dataworkssummit.com/barcelona-2019/) | Hortonworks/Hadoop Event 
 17.-21.3. | San Francisco| [GTC 2019 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisierte Konferenz mit Fokus auf AI und Deep Learning. Ableger gibt es rund um die Welt, im Herbst sicher auch wieder in Deutschland. 
 3.-5.4. | Austin | [AnacondaCON](https://anacondacon.io/) | 
 9.-11.4. | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next/sf) | Google Cloud Entwickler Event (und ja, es gibt noch die allgemeine Entwicklerkonferenz [Google IO](https://events.google.com/io/?authuser=0) - aber dafür bekommt man soweiso kein Ticket ;) )
 23.-25.4. | San Francicsco  | [Spark+AI Summit](https://databricks.com/sparkaisummit) | Zweimal jährliches Event von databricks (einen zweiten im Herbst Frühjar gibt es dann vermultich in London)
+30.4.-1.5. | San Jose | [F8](https://www.f8.com/) | Die Facebook developer conference. Gefühlt das beste was wegen PyTorch besuchen kann. 
+?.6. | San Jose | [WWDC](https://developer.apple.com/wwdc/) | Worldwide Developer Conference von Apple  
 4.-5.7. | Peking | [Baidu Create](http://create.baidu.com/) | Neuigkeiten aus Baidus AI Strategie, besonders natürlich auch aus dem Projekt Apollo.  
 4.-8.11. | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
 19.-22.11. | San Francisco | [Dreamforce](https://www.salesforce.com/dreamforce/)| Jährliches Salesforce Event
-2.-16.12.2019 | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)|
+2.-16.12.2019 | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)| Der Amazon Cloud Event. 
 
 # Noch mehr ... 
 Ich hab mich hier bewusst auf wenige Konferenzen konzentriert. Wenn wir Dich noch nicht das richtige dabei war, dann findest Du das vielleicht in einer Dieser Listen: 
@@ -118,4 +122,6 @@ Ich hab mich hier bewusst auf wenige Konferenzen konzentriert. Wenn wir Dich noc
 * [Computer Vision und Autonome Fahrzeuge](https://mighty.ai/blog/the-best-events-to-attend-in-2019-for-computer-vision-in-autonomous-vehicles/) 
 * [Ranking wissenschaftlicher Konferenzen](http://www.conferenceranks.com/index.html#data) 
 * [Top Computer Science Conferences](http://www.guide2research.com/topconf/) 
-
+* [Ranking Publikationen / Konferenzen](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) 
+* [DATA SCIENCE, MACHINE LEARNING, AI CONFERENCES AND EVENTS 2019](http://www.bigcloud.io/data-science-machine-learning-ai-conferences-and-events-2019/)
+* [List of Machine Learning / Deep Learning conferences in 2018 / 2019](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/)
