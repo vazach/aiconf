@@ -55,7 +55,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 16.-18.4. | Okinawa | [AISTATS](https://www.aistats.org/) | International Conference on Artificial Intelligence and Statistics
 6.-9.5. | New Orleans | [ICLR](https://iclr.cc/Conferences/2019/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke.
 13.-17.5. | Montreal | [AAMAS](http://aamas2019.encs.concordia.ca/) | International Conference on Autonomous Agents and Multiagent Systems
-20.-24.5. | Montreal | [ICRA](https://www.icra2019.org) | International Conference on Robotics and Automation - die führender Konferenz für Intelligente Roboter. 
+20.-24.5. | Montreal | [ICRA](https://www.icra2019.org) | International Conference on Robotics and Automation - die führende Konferenz für Intelligente Roboter. 
 9-12.6. | Paris | [Intelligent Vehicle Symposium](http://iv2019.org/) | Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
 10.-15.6. | Long Beach | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning.
 15.-21.6. | Long Beach | [CVPR](http://cvpr2019.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
