@@ -37,7 +37,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 21-23.5. | Stuttgart | [Autonomous Vehicle Software Symposium](https://www.autonomousvehicle-software.com/en/) | Konferenz zu ML, KI und CV für Autonomes Fahren - Teil der [Autonomous Vehicle Expo in Stuttgart](https://www.autonomousvehicletechnologyexpo.com/en/).
 23.-24.5. | Boston | [Deep Learning (for Robots)](https://www.re-work.co/events/deep-learning-for-robotics-summit-boston-2019) | Spannende kommerzielle high level Konferenz zu Deep Learning - auch in der Anwendung auf Roboter.
 11.6. | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe oben) San Francisco (18-20.9.2018), Singapore (18.9.2018) New York (5.-6.12.2018) und Cape Town (13.-15.11.2018)
-30.-31.7. | Hongkong | [AI Summit Hongkong](https://theaisummit.com/) | Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
 18.9. | Brüssel | [AutoSense](https://auto-sens.com/autosens-brussels/) | Konferenz zu Perception im Fahrzeug Kontext 
 19.-20.9. | London | [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2019) | Beste anwendungsnahe Deep Learning Event den ich in Europa gefunden habe. Co-Located mit dem ML for DevOps Summit. 
 23.-26.9. | New York | [Strata](https://conferences.oreilly.com/strata) |  Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ableger gibt es auch in San Francisco (25.-28.3.) und London (29.4.-2.5.).
@@ -81,7 +80,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 12.-15.2. | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | Die IBM Entwickler Konferenz. 
 18.-21.3. | Barcelona | [DataWorks Summit](https://dataworkssummit.com/barcelona-2019/) | Hortonworks/Hadoop Event 
 17.-21.3. | San Francisco| [GTC 2019 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisierte Konferenz mit Fokus auf AI und Deep Learning. Ableger gibt es rund um die Welt, im Herbst sicher auch wieder in Deutschland. 
-3.-5.4. | Austin | [AnacondaCON](https://anacondacon.io/) | 
 9.-11.4. | San Francisco | [Google Cloud Next](https://cloud.withgoogle.com/next/sf) | Google Cloud Entwickler Event (und ja, es gibt noch die allgemeine Entwicklerkonferenz [Google IO](https://events.google.com/io/?authuser=0) - aber dafür bekommt man soweiso kein Ticket ;) )
 23.-25.4. | San Francicsco  | [Spark+AI Summit](https://databricks.com/sparkaisummit) | Zweimal jährliches Event von databricks (einen zweiten im Herbst Frühjar gibt es dann vermultich in London)
 30.4.-1.5. | San Jose | [F8](https://www.f8.com/) | Die Facebook developer conference. Gefühlt das beste was wegen PyTorch besuchen kann. 
