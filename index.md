@@ -16,14 +16,10 @@ Datum | Ort | Konferenz  | Anmerkungen
 30.4.-3.5. | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco (ODSC West, 31.10.-3.11.2018), London (ODSC Europe, 19.-22.9.), Indien und in der Ukraine. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
 23.-24.5. | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/spring2019) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
 12.-14.7. | London | [PyData London](https://pydata.org/london2019/) | Python (und auch Julia und R) für Data Science 
-8.-9.7. | Austin | [SciPy](https://scipy2018.scipy.org/ehome/index.php?eventid=299527&) | Scientific Computing mit Python
-8.-14.7. | Basel | [EuroPython](https://ep2018.europython.eu/en/events/keynotes/) | Große Europäische Python Konferenz
 10-13.7. | Toulouse | [UseR](http://www.user2019.fr/) | Vermutlich die beste R Konferenz weltweit.
-19.-20.9. | London | [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2019) | Beste anwendungsnahe Deep Learning Event den ich in Europa gefunden habe. Co-Located mit dem ML for DevOps Summit. 
 09.-13.10. | Berlin | [PyConDE ](https://ti.to/pycon-de/pyconde-pydata-2019)| dreitägige Konferenz mit anschließendem zweitägigen Sprint-Teil, Fokus auf Themen wie Python, Data Science und Machine Learning
 31.10-1.11. | Macao | [ROScon](https://roscon.ros.org/2019/) | Entwickler Konferenz zum Robot Operating System. Direkt vor der wissenschaftlichen IROS Konferenz (s.u.).
 ?.9. | ? | [Data2Day](https://www.data2day.de/) | Nette Hacker Konferenz auf der sich besonders Data Engineers / Machine Learning Engineers wohlfühlen sollten. Für 2019 noch nicht offiziell angekündigt.
-
 
 Möglicherweise interessant, aber noch nicht offiziell angekündigt sind noch JupyterCon 2019 (spannende Konferenz bzgl der Verwendung von Python für DataScience), die EARL 2019 (anwendungsorientierte R Konferenz, normalerweise im Herbst in England) und die [DataEngConf](http://www.dataengconf.com/speakers-bcn18) in Europa. 
 
@@ -43,6 +39,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 11.6. | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong (siehe oben) San Francisco (18-20.9.2018), Singapore (18.9.2018) New York (5.-6.12.2018) und Cape Town (13.-15.11.2018)
 30.-31.7. | Hongkong | [AI Summit Hongkong](https://theaisummit.com/) | Die beste englischsprachige Konferenz zu KI im chinesischen Raum die ich gefunden habe. 
 18.9. | Brüssel | [AutoSense](https://auto-sens.com/autosens-brussels/) | Konferenz zu Perception im Fahrzeug Kontext 
+19.-20.9. | London | [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2019) | Beste anwendungsnahe Deep Learning Event den ich in Europa gefunden habe. Co-Located mit dem ML for DevOps Summit. 
 23.-26.9. | New York | [Strata](https://conferences.oreilly.com/strata) |  Mit >5000 Teilnehmern vielleicht die größte Konferenz die sich Data Science und BigData widmet. Ableger gibt es auch in San Francisco (25.-28.3.) und London (29.4.-2.5.).
 25-26.9. | Berlin | [Auto.AI](http://auto-ai.eu/en/)  | Spannende Konferenz an der Schnittstelle von Automotive und AI. 
 9.-10.10. | Amsterdam | [World Summit AI](http://worldsummit.ai/) | Großes, allgemeines und eher wenig technisches KI Event. Im letzten Jahr mit teilweise sehr interessanten Sprechern. 
@@ -69,7 +66,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 30.9.-4.10. | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
 27.10-3.11. | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum autonomen Fahren. 
 27-30.10. | Auckland | [ITSC](https://itsc2019.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
-3.-8.11. | Macao | [IROS](https://www.iros2019.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems Wichtige Konferenz zur KI für Roboter
+3.-8.11. | Macao | [IROS](https://www.iros2019.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems - Wichtige Konferenz zur KI für Roboter
 ?.12.2020| Vancouver | [NeurIPS](https://nips.cc/Conferences/2018) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
 
 Potentiell in Zukunft interessant, aber noch ohne richtige Ankündigung: ECCV 2020 (Europäische Konferenz zum Computer Vision)
