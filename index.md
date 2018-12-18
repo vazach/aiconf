@@ -64,7 +64,8 @@ Datum | Ort | Konferenz  | Anmerkungen
 20.-23.5. | Toronto | [Collision](https://collisionconf.com/) | Große allgemeine Technologiekonferenz -"fastest growing tech conference in America"
 Mai?  | Amsterdam | [The Next Web Conference](https://thenextweb.com/conference/) | Riesiger allgemeiner Event mit (im letzten Jahr) einem Machine Learning Track.
 8.-11.7. | Hongkong | [RISE](https://riseconf.com/) | Große Technologie Konferenz mit einer TalkRobot Teilkonferenz zu KI und Robotern (ist von den gleichen Organisatoren wir der WebSummit). 
-4.-7.11. | WebSummit | [WebSummit](https://websummit.com/)| Größte allgemeine IT Konferenz in Europa. Sicher auch im nächsten Jahr wieder mit großem KI Anteil. 
+10-20.9. | Frankfurt | [IAA](https://www.iaa.de/) | Die größte Automobil Messe in Deutschland. Auch verbunden mit Konferenzen (IAA und NMW) wird KI und autonomes Fahren sicher immer wieder ein Thema sein. 
+4.-7.11. | Lissabon | [WebSummit](https://websummit.com/)| Größte allgemeine IT Konferenz in Europa. Sicher auch im nächsten Jahr wieder mit großem KI Anteil. 
 
 # Wissenschaftliche Konferenzen
 
@@ -84,7 +85,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 22.-26.7. | Tel Aviv | [UAI](http://auai.org/uai2019/) | Conference on Uncertainty in Artificial Intelligence
 28.7.-2.8. | Florenz | [ACL](http://www.acl2019.org/EN/index.xhtml) | Annual Meeting of the Association for Computational Linguistics, wichtige Konferenz auf dem Gebiet der Sprachverarbeitung. 
 10.-16.8. | Macao | [IJCAI](https://www.ijcai19.org/) | International Joint Conference on Artificial Intelligence - die wichtigste internationale Konferenz für Künstliche Intelligenz
-10-20.9. | Frankfurt | [IAA](https://www.iaa.de/) | Die größte Automobil Messe in Deutschland. Auch verbunden mit Konferenzen (IAA und NMW) wird KI und autonomes Fahren sicher immer wieder ein Thema sein. 
 30.9.-4.10. | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
 27.10-3.11. | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum autonomen Fahren. 
 27-30.10. | Auckland | [ITSC](https://itsc2019.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
