@@ -95,17 +95,17 @@ Konferenzen mit noch allgemeineren Themen - allgemein Technologie, Mobilität od
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
 9.-12.1. | Las Vegas | [CES Las Vegas](https://www.ces.tech/) | Die Konferenz für Entwicklungen in der Consumer Elektronik (und inzwischen auch der Elektronik im Auto).  
-27-28.1. | Honululu | [AIES Conference](http://www.aies-conference.com/) | Artificial Intelligence, Ethics and Society
-25.-28.2. | Barcelona | [MVC Barcelona](https://www.mwcbarcelona.com/) | Mobile World Congress Barcelona - riesiger (mehr als 100.000 Teilnehmer), auf Vernetzung fokussierter Tech-Event. Im nächsten Jahr auch mit Fokus auf Automotive and AI. 
+25.-28.2. | Barcelona | [MWC Barcelona](https://www.mwcbarcelona.com/) | Mobile World Congress Barcelona - riesiger (mehr als 100.000 Teilnehmer), auf Vernetzung fokussierter Tech-Event. Im nächsten Jahr auch mit Fokus auf Automotive and AI. 
 25.-26.2. | Kalifornien (Südlich von SF) |  [New+Work+Summit](https://www.newworksummit.com/) |  Leading in the Age of AI. Spannend fand ich die List der Sprecher (wie Andrew Ng) und das die Konferenz mal nicht von den üblichen Verdächtigen organisiert ist (sondern von der New York Times). 
-12.-13.2. | London | [Move](https://www.terrapinn.com/exhibition/move/agenda.stm) | Spannende neue Konferenz zur Zukunft der Mobilität (auch mit Autonomen Fahren) 
+12.-13.2. | London | [Move](https://www.terrapinn.com/exhibition/move/agenda.stm) | Spannende neue Konferenz zur Zukunft der Mobilität (auch mit Autonomen Fahren)
+8.17.3. | Austin | [SXSW](https://www.sxsw.com/) | Riesiger Medien und Technologie Event in den USA
 25-26.3. | San Francisco |  [EmTech DIGITAL](https://events.technologyreview.com/emtech/digital/18/) |  Vom MIT Technology Review organisiert und nn der Vergangenheit mit spannenden Rednern wie Astro Teller "Captain of Moonshots" von Alphabet's X.  
 10.-11.4. | Berlin |[hub.berlin und bitkom BigData und AI Summits](https://www.big-data.ai/) | Die bitkom Big Data Events waren die letzten Jahre *der* Ort um zu sehen wie Big Data im Deutschen Mainstream ankommt. Im nächsten Jahr mit neuem Format und Co-Located mit hub.berlin (und in Berlin). Streben danach ein sehr großes Tech Event in Deutschland auf die Beine zu stellen (5000+ Teilnehmer).
 13-17.5. | San Francisco | [The  Web Conference](https://www2019.thewebconf.org/) | Eigentlich eine wissenschaftliche Konferenz. Aber angesichts des Themas (verstehen der Entwicklung des Internets aus allen Perspektiven) passt es am besten in diese Kategorie. 
-20.-23.5. | Toronto | [Collision](https://collisionconf.com/) | Große allgemeine Technologiekonferenz -"fastest growing tech conference in America"
 Mai?  | Amsterdam | [The Next Web Conference](https://thenextweb.com/conference/) | Riesiger allgemeiner Event mit (im letzten Jahr) einem Machine Learning Track.
 8.-11.7. | Hongkong | [RISE](https://riseconf.com/) | Große Technologie Konferenz mit einer TalkRobot Teilkonferenz zu KI und Robotern (ist von den gleichen Organisatoren wir der WebSummit). 
 10-20.9. | Frankfurt | [IAA](https://www.iaa.de/) | Die größte Automobil Messe in Deutschland. Auch verbunden mit Konferenzen (IAA und NMW) wird KI und autonomes Fahren sicher immer wieder ein Thema sein. 
+29.9.-1.10. | Munich | [Bits & Pretzel](https://www.bitsandpretzels.com/) | Großer IT Innovation / Startup Event mit Event Charakter.
 4.-7.11. | Lissabon | [WebSummit](https://websummit.com/)| Größte allgemeine IT Konferenz in Europa. Sicher auch im nächsten Jahr wieder mit großem KI Anteil. 
 
 # Noch mehr ... 
