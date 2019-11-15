@@ -73,7 +73,6 @@ Konferenzen von Anbietern wo im nächsten Jahr KI voraussichtlich eine große Ro
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/) 
 12.-15.2. | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | Die IBM Entwickler Konferenz. 
 18.-21.3. | Barcelona | [DataWorks Summit](https://dataworkssummit.com/barcelona-2019/) | Hortonworks/Hadoop Event 
 17.-21.3. | San Francisco| [GTC 2019 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisierte Konferenz mit Fokus auf AI und Deep Learning. Ableger gibt es rund um die Welt, im Herbst sicher auch wieder in Deutschland. 
