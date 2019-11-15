@@ -1,6 +1,6 @@
-# Gute KI Konferenzen 2019
+# Gute KI Konferenzen 2020
 
-Diese Liste sammelt KI Konferenzen in 2018-2019 die ([meiner](http://vzach.de) Meinung nach) wirklich die Zeit wert sind (inkl. der für die Anreise aus Deutschland). 
+Diese Liste sammelt KI Konferenzen in 2019-2020 die ([meiner](http://vzach.de) Meinung nach) wirklich die Zeit wert sind (inkl. der für die Anreise aus Deutschland). 
 
 [Ich](http://vzach.de) freue mich über Vorschläge für Ergänzungen / Anpassungen!
 
@@ -10,18 +10,15 @@ Bei diesen Konferenzen geht es um das *wie* der Erstellung von KI Systemen (im D
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------    
-26.-29.1. | Lausanne | [Applied Machine Learning Days](https://www.appliedmldays.org/)| Viertägige technische Konferenz, in der Vergangenheit mit interessanten Sprechern von Google, Deep Mind u.a.
-6.-7.3. | Mountain View | [TensorFlow DevSummit](https://www.tensorflow.org/dev-summit/)| Der technische Event zu Tensor Flow 
-27.-28.3. | San Francisco | [ScaledML](http://scaledml.org/2019/) | Der Event für Machine Learning Engineering 
-30.4.-3.5. | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco (ODSC West, 31.10.-3.11.2018), London (ODSC Europe, 19.-22.9.), Indien und in der Ukraine. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
-23.-24.5. | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/spring2019) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
-12.-14.7. | London | [PyData London](https://pydata.org/london2019/) | Python (und auch Julia und R) für Data Science 
-10-13.7. | Toulouse | [UseR](http://www.user2019.fr/) | Vermutlich die beste R Konferenz weltweit.
-09.-13.10. | Berlin | [PyConDE ](https://ti.to/pycon-de/pyconde-pydata-2019)| dreitägige Konferenz mit anschließendem zweitägigen Sprint-Teil, Fokus auf Themen wie Python, Data Science und Machine Learning
-31.10-1.11. | Macao | [ROScon](https://roscon.ros.org/2019/) | Entwickler Konferenz zum Robot Operating System. Direkt vor der wissenschaftlichen IROS Konferenz (s.u.).
-?.9. | ? | [Data2Day](https://www.data2day.de/) | Nette Hacker Konferenz auf der sich besonders Data Engineers / Machine Learning Engineers wohlfühlen sollten. Für 2019 noch nicht offiziell angekündigt.
+25.-29.1.2020 | Lausanne | [Applied Machine Learning Days](https://www.appliedmldays.org/)| Fünftägige technische Konferenz, in der Vergangenheit mit interessanten Sprechern von Google, Deep Mind u.a.
+26.-27.2.2020 | San Francisco | [ScaledML](http://scaledml.org/2020/) | Der Event für Machine Learning Engineering 
+13.4.-17.4.2020 | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco , London, Indien und in Sao Paulo. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
+14.-15.5.2020 | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
+7-10.7.2020 | St. Louis | [UseR](https://user2020.r-project.org/) | Vermutlich die beste R Konferenz weltweit.
+8-10.9.2020 | London | [EARL](https://earlconf.com/) | Anwendungsorientierte R Konferenz
 
-Möglicherweise interessant, aber noch nicht offiziell angekündigt sind noch JupyterCon 2019 (spannende Konferenz bzgl der Verwendung von Python für DataScience), die EARL 2019 (anwendungsorientierte R Konferenz, normalerweise im Herbst in England) und die [DataEngConf](http://www.dataengconf.com/speakers-bcn18) in Europa. 
+Möglicherweise interessant in den letzten Jahren (aber für diesen Jahr noch nicht angekündigt) sind der TensorFlow DevSummit (März in Kaliforien, Pydata London (im letzten Jahr im Juli), PyconDE (Oktober, letztes Jahr in Berlin), TensorFlow World (Oktober, irgendwo in den USA), Data2Day (Oktober, irgendwo in Süddeutschland), Roscon (zusammen mit der IROS Konferenz aber vermutlich erst wieder 2021).  
+
 
 # Konferenzen zu Anwendungsmöglichkeiten, Business Cases .. 
 
@@ -76,7 +73,7 @@ Konferenzen von Anbietern wo im nächsten Jahr KI voraussichtlich eine große Ro
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-15.1-18.1.  | Austin | [RStudio Conf](https://www.rstudio.com/conference/) |  (Talks aus dem letzten Jahr: https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/) 
+https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/) 
 12.-15.2. | San Francisco | [IBM Think](https://www.ibm.com/events/think/) | Die IBM Entwickler Konferenz. 
 18.-21.3. | Barcelona | [DataWorks Summit](https://dataworkssummit.com/barcelona-2019/) | Hortonworks/Hadoop Event 
 17.-21.3. | San Francisco| [GTC 2019 - GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | Von NVIDIA organisierte Konferenz mit Fokus auf AI und Deep Learning. Ableger gibt es rund um die Welt, im Herbst sicher auch wieder in Deutschland. 
@@ -87,6 +84,8 @@ Datum | Ort | Konferenz  | Anmerkungen
 4.-5.7. | Peking | [Baidu Create](http://create.baidu.com/) | Neuigkeiten aus Baidus AI Strategie, besonders natürlich auch aus dem Projekt Apollo.  
 4.-8.11. | Orlando | [Microsoft Ignite](https://msignite.eventcore.com/auth/login)  |
 2.-16.12.2019 | Las Vegas | [AWS re:Invent](https://reinvent.awsevents.com/)| Der Amazon Cloud Event. 
+
+27.1-30.1.2020  | Austin | [RStudio Conf](https://www.rstudio.com/conference/) |  Vermutlich wichtigste Konferenz zu aktuellen Entwicklungen in der Toolunterstützung für R. 
 
 # Allgemeinere Konferenzen zu Trends in Technologie, Gesellschaft usw.  .. 
 
