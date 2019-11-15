@@ -50,7 +50,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 20.-24.5. | Montreal | [ICRA](https://www.icra2019.org) | International Conference on Robotics and Automation - die führende Konferenz für Intelligente Roboter. 
 9-12.6. | Paris | [Intelligent Vehicle Symposium](http://iv2019.org/) | Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
 10.-15.6. | Long Beach | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning.
-
 25.-28.6. | Phoenix | [COLT](http://learningtheory.org/colt2019/) | Computational Learning Theory
 11.-15.7. | Berkeley | [ICAPS](https://icaps19.icaps-conference.org/) | International Conference on Automated Planning and Scheduling
 22.-26.7. | Tel Aviv | [UAI](http://auai.org/uai2019/) | Conference on Uncertainty in Artificial Intelligence
@@ -60,7 +59,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 30.9.-4.10. | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
 27.10-3.11. | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum autonomen Fahren. 
 27-30.10. | Auckland | [ITSC](https://itsc2019.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
-
 8-14.12.2019| Vancouver | [NeurIPS](https://nips.cc/Conferences/2019) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
 7.2.-12.2.2020 | New York | [AAAI](https://aaai.org/Conferences/AAAI-20/) | Conference on Artificial Intelligence der  Association for the Advancement of Artificial Intelligence.
 14.-19.6.2020 | Seattle | [CVPR](http://cvpr2020.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
