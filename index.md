@@ -62,7 +62,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 8-14.12.2019| Vancouver | [NeurIPS](https://nips.cc/Conferences/2019) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
 7.2.-12.2.2020 | New York | [AAAI](https://aaai.org/Conferences/AAAI-20/) | Conference on Artificial Intelligence der  Association for the Advancement of Artificial Intelligence.
 14.-19.6.2020 | Seattle | [CVPR](http://cvpr2020.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
-?.10.2020  | Las Vegas | [IROS](https://www.iros2019.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems - Wichtige Konferenz zur KI für Roboter.
+25-29.10.2020  | Las Vegas | [IROS](http://www.iros2020.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems - Wichtige Konferenz zur KI für Roboter.
 
 Potentiell in Zukunft interessant, aber noch ohne richtige Ankündigung: ECCV 2020 (Europäische Konferenz zum Computer Vision)
 
