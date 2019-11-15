@@ -44,16 +44,14 @@ Datum | Ort | Konferenz  | Anmerkungen
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-27.1.-1.2. | Honolulu | [AAAI](https://aaai.org/Conferences/AAAI-19/) | Conference on Artificial Intelligence der  Association for the Advancement of Artificial Intelligence
 16.-18.4. | Okinawa | [AISTATS](https://www.aistats.org/) | International Conference on Artificial Intelligence and Statistics
 6.-9.5. | New Orleans | [ICLR](https://iclr.cc/Conferences/2019/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke.
 13.-17.5. | Montreal | [AAMAS](http://aamas2019.encs.concordia.ca/) | International Conference on Autonomous Agents and Multiagent Systems
 20.-24.5. | Montreal | [ICRA](https://www.icra2019.org) | International Conference on Robotics and Automation - die führende Konferenz für Intelligente Roboter. 
 9-12.6. | Paris | [Intelligent Vehicle Symposium](http://iv2019.org/) | Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
 10.-15.6. | Long Beach | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning.
-15.-21.6. | Long Beach | [CVPR](http://cvpr2019.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
+
 25.-28.6. | Phoenix | [COLT](http://learningtheory.org/colt2019/) | Computational Learning Theory
-30.6. | Amsterdam | [DEEM](http://deem-workshop.org/) | Workshop on Data Management for End-to-End Machine Learning. Kleiner Workshop auf einer angesehenen Datenbank Konferenz (SIGMOD/PODS) - aber ein sehr aktuelles und relevantes Thema mit tollen Leuten.  
 11.-15.7. | Berkeley | [ICAPS](https://icaps19.icaps-conference.org/) | International Conference on Automated Planning and Scheduling
 22.-26.7. | Tel Aviv | [UAI](http://auai.org/uai2019/) | Conference on Uncertainty in Artificial Intelligence
 28.7.-2.8. | Florenz | [ACL](http://www.acl2019.org/EN/index.xhtml) | Annual Meeting of the Association for Computational Linguistics, wichtige Konferenz auf dem Gebiet der Sprachverarbeitung. 
@@ -62,8 +60,11 @@ Datum | Ort | Konferenz  | Anmerkungen
 30.9.-4.10. | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
 27.10-3.11. | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum autonomen Fahren. 
 27-30.10. | Auckland | [ITSC](https://itsc2019.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
-3.-8.11. | Macao | [IROS](https://www.iros2019.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems - Wichtige Konferenz zur KI für Roboter
-?.12.2020| Vancouver | [NeurIPS](https://nips.cc/Conferences/2018) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
+
+8-14.12.2019| Vancouver | [NeurIPS](https://nips.cc/Conferences/2019) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
+7.2.-12.2.2020 | New York | [AAAI](https://aaai.org/Conferences/AAAI-20/) | Conference on Artificial Intelligence der  Association for the Advancement of Artificial Intelligence.
+14.-19.6.2020 | Seattle | [CVPR](http://cvpr2020.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
+?.10.2020  | Las Vegas | [IROS](https://www.iros2019.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems - Wichtige Konferenz zur KI für Roboter.
 
 Potentiell in Zukunft interessant, aber noch ohne richtige Ankündigung: ECCV 2020 (Europäische Konferenz zum Computer Vision)
 
