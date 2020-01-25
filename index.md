@@ -49,7 +49,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-
 6.-9.5. | New Orleans | [ICLR](https://iclr.cc/Conferences/2019/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke.
 13.-17.5. | Montreal | [AAMAS](http://aamas2019.encs.concordia.ca/) | International Conference on Autonomous Agents and Multiagent Systems
 20.-24.5. | Montreal | [ICRA](https://www.icra2019.org) | International Conference on Robotics and Automation - die führende Konferenz für Intelligente Roboter. 
