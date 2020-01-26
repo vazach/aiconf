@@ -12,6 +12,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------    
 25.-29.1.2020 | Lausanne | [Applied Machine Learning Days](https://www.appliedmldays.org/)| Fünftägige technische Konferenz, in der Vergangenheit mit interessanten Sprechern von Google, Deep Mind u.a.
 26.-27.2.2020 | San Francisco | [ScaledML](http://scaledml.org/2020/) | Der Event für Machine Learning Engineering 
+11.-12.3.2020 | Sunnyvale | [TensorFlow DevSummit](https://www.tensorflow.org/dev-summit) | Wichtigstes jährliches Event zum Entwickeln mit TensorFlow
 24-25.3.2020 | Berlin | [W3C Workshop on Web and Machine Learning](https://www.w3.org/2020/01/machine-learning-workshop/) | Hier geht es um die Schnittstelle von Machine Learning und Web Technologien - sehr spannende Themen!
 14.-17.5.2020 | London | [PyData](https://pydata.org/london2020/) | Data Science Konferenz mit Fokus auf das Python Ökosystem. Gibt es später im Jahr auch in Berlin (s.u.), aber London ist vermutlich etwas größer.
 20.-23.4.2020 | London | [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-eu) | Große Oreilly Konferenz zu Big Data und AI. Ableger gibt es auch in San Jose (März) und New York (September) 
@@ -21,7 +22,9 @@ Datum | Ort | Konferenz  | Anmerkungen
 14.-18.9.2020 | Dublin | [ODSC Europe](https://odsc.com/dublin/) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco , Boston,  Indien und in Sao Paulo. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
 Fall 2020 | Barcelona | [DataCouncil](https://www.datacouncil.ai/) | Technische Konferenz mit Veranstaltungen an verschiedenen Orten (auch SF,NY, Singapur). Die (über Webseite und YouTube kostenlos zugänglichen) Vorträge aus den letzten Jahren haben mich begeistert. 
 14-15.10.2020 | Berlin | [PyData](https://berlin.pydata.org/) | Data Science Konferenz mit Fokus auf das Python Ökosystem. 
-Möglicherweise interessant in den letzten Jahren (aber für diesen Jahr noch nicht angekündigt) sind der TensorFlow DevSummit (März in Kaliforien, Pydata London (im letzten Jahr im Juli), PyconDE (Oktober, letztes Jahr in Berlin), TensorFlow World (Oktober, irgendwo in den USA), Data2Day (Oktober, irgendwo in Süddeutschland), Roscon (zusammen mit der IROS Konferenz aber vermutlich erst wieder 2021).  
+19.-21.10.2020 | Süddeutschland | [Data2Day](https://www.data2day.de/) | Schöne technische Konferenz auf der sich besonders DataEngineers mit Programmier-Hintergrund wohlfühlen sollten. 
+
+Möglicherweise zusätzlich noch interessant (aber für diesen Jahr noch nicht angekündigt) ist die Roscon (zusammen mit der IROS Konferenz).  
 
 
 # Konferenzen zu Anwendungsmöglichkeiten, Business Cases .. 
