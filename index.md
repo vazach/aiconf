@@ -1,6 +1,6 @@
 # Gute KI Konferenzen 2020
 
-Diese Liste sammelt KI Konferenzen in 2019-2020 die ([meiner](http://vzach.de) Meinung nach) wirklich die Zeit wert sind (inkl. der für die Anreise aus Deutschland). 
+Diese Liste sammelt KI Konferenzen in 2020 die ([meiner](http://vzach.de) Meinung nach) wirklich die Zeit wert sind (inkl. der für die Anreise aus Deutschland). 
 
 [Ich](http://vzach.de) freue mich über Vorschläge für Ergänzungen / Anpassungen!
 
