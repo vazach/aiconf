@@ -13,12 +13,14 @@ Datum | Ort | Konferenz  | Anmerkungen
 25.-29.1.2020 | Lausanne | [Applied Machine Learning Days](https://www.appliedmldays.org/)| Fünftägige technische Konferenz, in der Vergangenheit mit interessanten Sprechern von Google, Deep Mind u.a.
 26.-27.2.2020 | San Francisco | [ScaledML](http://scaledml.org/2020/) | Der Event für Machine Learning Engineering 
 24-25.3.2020 | Berlin | [W3C Workshop on Web and Machine Learning](https://www.w3.org/2020/01/machine-learning-workshop/) | Hier geht es um die Schnittstelle von Machine Learning und Web Technologien - sehr spannende Themen!
-13.4.-17.4.2020 | Boston | [ODSC East](https://odsc.com/boston) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco , London, Indien und in Sao Paulo. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
+14.-17.5.2020 | London | [PyData](https://pydata.org/london2020/) | Data Science Konferenz mit Fokus auf das Python Ökosystem. Gibt es später im Jahr auch in Berlin (s.u.), aber London ist vermutlich etwas größer.
 20.-23.4.2020 | London | [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-eu) | Große Oreilly Konferenz zu Big Data und AI. Ableger gibt es auch in San Jose (März) und New York (September) 
 14.-15.5.2020 | Boston | [The Data Science Conference](https://www.thedatascienceconference.com/) | Nicht kommerzielle Konferenz (keine Sponsoren, keine Software Anbieter) die versucht Industrielle Data Science Anwendungen wissenschaftlich vorzustellen. In der Vergangenheit sehr interessante Teilnehmer. 
 7-10.7.2020 | St. Louis | [UseR](https://user2020.r-project.org/) | Vermutlich die beste R Konferenz weltweit.
 8-10.9.2020 | London | [EARL](https://earlconf.com/) | Anwendungsorientierte R Konferenz
-
+14.-18.9.2020 | Dublin | [ODSC Europe](https://odsc.com/dublin/) | Große und angesehene technische Konferenz zu Data Science. Ableger gibt es auch in San Francisco , Boston,  Indien und in Sao Paulo. Boston scheint mir aber die beste Kombination aus Flugzeit und meiner Erwartung an die Qualität der Redner. 
+Fall 2020 | Barcelona | [DataCouncil](https://www.datacouncil.ai/) | Technische Konferenz mit Veranstaltungen an verschiedenen Orten (auch SF,NY, Singapur). Die (über Webseite und YouTube kostenlos zugänglichen) Vorträge aus den letzten Jahren haben mich begeistert. 
+14-15.10.2020 | Berlin | [PyData](https://berlin.pydata.org/) | Data Science Konferenz mit Fokus auf das Python Ökosystem. 
 Möglicherweise interessant in den letzten Jahren (aber für diesen Jahr noch nicht angekündigt) sind der TensorFlow DevSummit (März in Kaliforien, Pydata London (im letzten Jahr im Juli), PyconDE (Oktober, letztes Jahr in Berlin), TensorFlow World (Oktober, irgendwo in den USA), Data2Day (Oktober, irgendwo in Süddeutschland), Roscon (zusammen mit der IROS Konferenz aber vermutlich erst wieder 2021).  
 
 
@@ -44,6 +46,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 26.-27.3.2020 | München | [Künstliche Intelligenz 2020](https://veranstaltungen.handelsblatt.com/kuenstliche-intelligenz/) | Vom Handelblatt organisiert, mit Fokus auf Wertschöpfung und auch politischer Beteiligung. 
 14.5.2020 | San Jose | [TC Sessions: Mobility](https://techcrunch.com/events/tc-sessions-mobility-2020/) | Techcrunch Event mit - zumindest im letzten Jahr - vielfältiger Beteiligung der Autonomous Driving Firmen aus den USA. Für einen Tag sicher zu weit weg, aber falls man in der Nähe ist .. 
 27.-28.5.2020 | Düsseldorf | [VDI Conference - Autonomous Driving](https://www.vdi-wissensforum.de/en/event/autonomous-driving/) | Vom VDI organisiertes Deutsches Event zum autonomen Fahren. 
+18.-19.11.2020 | Berlin |[DataNatives](https://datanatives.io/conference/) | Große praktische Konferenz zu Data Science. 
 
 # Wissenschaftliche Konferenzen
 
@@ -52,7 +55,6 @@ Datum | Ort | Konferenz  | Anmerkungen
 6.-9.5. | New Orleans | [ICLR](https://iclr.cc/Conferences/2019/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke.
 13.-17.5. | Montreal | [AAMAS](http://aamas2019.encs.concordia.ca/) | International Conference on Autonomous Agents and Multiagent Systems
 20.-24.5. | Montreal | [ICRA](https://www.icra2019.org) | International Conference on Robotics and Automation - die führende Konferenz für Intelligente Roboter. 
-9-12.6. | Paris | [Intelligent Vehicle Symposium](http://iv2019.org/) | Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
 25.-28.6. | Phoenix | [COLT](http://learningtheory.org/colt2019/) | Computational Learning Theory
 11.-15.7. | Berkeley | [ICAPS](https://icaps19.icaps-conference.org/) | International Conference on Automated Planning and Scheduling
 22.-26.7. | Tel Aviv | [UAI](http://auai.org/uai2019/) | Conference on Uncertainty in Artificial Intelligence
@@ -60,18 +62,19 @@ Datum | Ort | Konferenz  | Anmerkungen
 10.-16.8. | Macao | [IJCAI](https://www.ijcai19.org/) | International Joint Conference on Artificial Intelligence - die wichtigste internationale Konferenz für Künstliche Intelligenz
 16.-20.9. | Würzburg | [ECML-PKDD](http://ecmlpkdd2019.org/) | Gute Europäische Konferenz zu Machine Learning. 
 30.9.-4.10. | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
-27.10-3.11. | Seoul | [ICCV](http://iccv2019.thecvf.com/) | Angesehene Konferenz auf dem Gebiet Computer Vision mit entsprechender Überlappung zum autonomen Fahren. 
-27-30.10. | Auckland | [ITSC](https://itsc2019.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
 8-14.12.2019| Vancouver | [NeurIPS](https://nips.cc/Conferences/2019) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
 7.2.-12.2.2020 | New York | [AAAI](https://aaai.org/Conferences/AAAI-20/) | Conference on Artificial Intelligence der  Association for the Advancement of Artificial Intelligence.
 2.3.-4.3.2020 | Austin | [MLSys](https://mlsys.org/)| Third Conference on Machine Learning and Systems (MLSys) - spannende Konferenz an der Schnittstelle von KI und Hardware
 3.-5.6. | Palermo | [AISTATS](https://www.aistats.org/) | International Conference on Artificial Intelligence and Statistics
 14.-19.6.2020 | Seattle | [CVPR](http://cvpr2020.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
-12.-18.7. | Wien | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning.
+23.-26.6.2020 | Las Vegas | [IV2020](https://2020.ieee-iv.org/) | Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
+12.-18.7.2020 | Wien | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning.
+23.-28.9.2020 | Glasgow | [ECCV](https://eccv2020.eu/) | European Conference on Computer Vision - Wichtigste europäische Konferenz zum maschinellen sehen.  
+20-23.9.2020 | Rhodos | [ITSC](https://www.ieee-itsc2020.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
 12.-14.10.2020 | Lyon [DDI](https://ddi2020.sciencesconf.org/) | 7th International Conference on Drive Distraction and Inattention - kein Konferenz großem Ruf, aber aufgrund der neuen Regeln aus Brüssel müsste Driver Monitoring dieses Jahr eigentlich stark an Wichtigkeit und Sichtbarkeit gewinnen und sollte diese Konferenz darüber zu einem interessanten Ort werden.   
 25-29.10.2020  | Las Vegas | [IROS](http://www.iros2020.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems - Wichtige Konferenz zur KI für Roboter.
 
-Potentiell in Zukunft interessant, aber noch ohne richtige Ankündigung: ECCV 2020 (Europäische Konferenz zum Computer Vision)
+Potentiell in Zukunft interessant, aber noch ohne richtige Ankündigung: ICCV 2021 (Internationale Konferenz zum Computer Vision)
 
 # Konferenzen relevanter Anbieter
 
