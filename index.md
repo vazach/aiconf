@@ -52,26 +52,25 @@ Oktober | Amsterdam | [World Summit AI](http://worldsummit.ai/) | Großes, allge
 
 Datum | Ort | Konferenz  | Anmerkungen
 ------------ | ------------- | ------------- | -------------  
-16.-20.9. | Würzburg | [ECML-PKDD](http://ecmlpkdd2019.org/) | Gute Europäische Konferenz zu Machine Learning. 
-30.9.-4.10. | Stamford | [CP](http://cp2019.a4cp.org/) | International Conference on Principles and Practice of Constraint Programming
-8-14.12.2019| Vancouver | [NeurIPS](https://nips.cc/Conferences/2019) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
-7.2.-12.2.2020 | New York | [AAAI](https://aaai.org/Conferences/AAAI-20/) | Conference on Artificial Intelligence der  Association for the Advancement of Artificial Intelligence.
-2.3.-4.3.2020 | Austin | [MLSys](https://mlsys.org/)| Third Conference on Machine Learning and Systems (MLSys) - spannende Konferenz an der Schnittstelle von KI und Hardware
+7.2.-12.2. | New York | [AAAI](https://aaai.org/Conferences/AAAI-20/) | Conference on Artificial Intelligence der  Association for the Advancement of Artificial Intelligence.
+2.3.-4.3. | Austin | [MLSys](https://mlsys.org/)| Third Conference on Machine Learning and Systems (MLSys) - spannende Konferenz an der Schnittstelle von KI und Hardware
 3.-5.6. | Palermo | [AISTATS](https://www.aistats.org/) | International Conference on Artificial Intelligence and Statistics
-26.-30.4.2020 | Addis Ababa | [ICLR](https://iclr.cc/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke.
-31.5.-4.6.2020 | Paris |  [ICRA](https://www.icra2020.org/) | International Conference on Robotics and Automation - die führende Konferenz für Intelligente Roboter. 
-14.-19.6.2020 | Nancy | [ICAPS](https://icaps20.icaps-conference.org/) | International Conference on Automated Planning and Scheduling
-14.-19.6.2020 | Seattle | [CVPR](http://cvpr2020.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
-23.-26.6.2020 | Las Vegas | [IV2020](https://2020.ieee-iv.org/) | Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
-6.7.-10.7.2020 | Seattle | [ACL](https://acl2020.org/) | Annual Meeting of the Association for Computational Linguistics, wichtige Konferenz auf dem Gebiet der Sprachverarbeitung. 
-9.-12.7.2020 | Graz | [COLT](http://learningtheory.org/colt2019/) | Computational Learning Theory
-12.-18.7.2020 | Wien | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning.
-11.-17.7.2020 | Yokohama | [IJCAI](https://ijcai20.org/) | International Joint Conference on Artificial Intelligence - die wichtigste internationale Konferenz für Künstliche Intelligenz
-3.-6.8.2020 | Toronto | [UAI](http://auai.org/uai2020/) | Conference on Uncertainty in Artificial Intelligence
-23.-28.9.2020 | Glasgow | [ECCV](https://eccv2020.eu/) | European Conference on Computer Vision - Wichtigste europäische Konferenz zum maschinellen sehen.  
-20-23.9.2020 | Rhodos | [ITSC](https://www.ieee-itsc2020.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
-12.-14.10.2020 | Lyon [DDI](https://ddi2020.sciencesconf.org/) | 7th International Conference on Drive Distraction and Inattention - kein Konferenz großem Ruf, aber aufgrund der neuen Regeln aus Brüssel müsste Driver Monitoring dieses Jahr eigentlich stark an Wichtigkeit und Sichtbarkeit gewinnen und sollte diese Konferenz darüber zu einem interessanten Ort werden.   
+26.-30.4. | Addis Ababa | [ICLR](https://iclr.cc/) | 7th International Conference on Learning Representations - wichtige Konferenz zu Grundlagen tiefer neuronaler Netzwerke.
+31.5.-4.6. | Paris |  [ICRA](https://www.icra2020.org/) | International Conference on Robotics and Automation - die führende Konferenz für Intelligente Roboter. 
+14.-19.6. | Nancy | [ICAPS](https://icaps20.icaps-conference.org/) | International Conference on Automated Planning and Scheduling
+14.-19.6. | Seattle | [CVPR](http://cvpr2020.thecvf.com/) | Computer Vision and Pattern Recognition - die wichtigste wissenschaftliche Konferenz zum maschinellen sehen.
+23.-26.6. | Las Vegas | [IV2020](https://2020.ieee-iv.org/) | Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
+6.7.-10.7. | Seattle | [ACL](https://acl2020.org/) | Annual Meeting of the Association for Computational Linguistics, wichtige Konferenz auf dem Gebiet der Sprachverarbeitung. 
+9.-12.7. | Graz | [COLT](http://learningtheory.org/colt2019/) | Computational Learning Theory
+12.-18.7. | Wien | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning.
+11.-17.7. | Yokohama | [IJCAI](https://ijcai20.org/) | International Joint Conference on Artificial Intelligence - die wichtigste internationale Konferenz für Künstliche Intelligenz
+3.-6.8. | Toronto | [UAI](http://auai.org/uai2020/) | Conference on Uncertainty in Artificial Intelligence
+14.-18.9. | Ghent | [ECML-PKDD](https://ecmlpkdd2020.net/) | Gute Europäische Konferenz zu Machine Learning. 
+23.-28.9. | Glasgow | [ECCV](https://eccv2020.eu/) | European Conference on Computer Vision - Wichtigste europäische Konferenz zum maschinellen sehen.  
+20-23.9.| Rhodos | [ITSC](https://www.ieee-itsc2020.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
+12.-14.10.2020 | Lyon | [DDI](https://ddi2020.sciencesconf.org/) | 7th International Conference on Drive Distraction and Inattention - kein Konferenz großem Ruf, aber aufgrund der neuen Regeln aus Brüssel müsste Driver Monitoring dieses Jahr eigentlich stark an Wichtigkeit und Sichtbarkeit gewinnen und sollte diese Konferenz darüber zu einem interessanten Ort werden.   
 25-29.10.2020  | Las Vegas | [IROS](http://www.iros2020.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems - Wichtige Konferenz zur KI für Roboter.
+6-12.12.2020| Vancouver | [NeurIPS](https://nips.cc/) | Conference on Neural Information Processing Systems - die wichtigste Konferenz zu neuronalen Netzwerken / Deep Learning.
 
 Potentiell in Zukunft interessant, aber noch ohne richtige Ankündigung: ICCV 2021 (Internationale Konferenz zum Computer Vision)
 
