@@ -42,6 +42,7 @@ Datum | Ort | Konferenz  | Anmerkungen
 27.-28.5. | Düsseldorf | [VDI Conference - Autonomous Driving](https://www.vdi-wissensforum.de/en/event/autonomous-driving/) | Vom VDI organisiertes Deutsches Event zum autonomen Fahren. 
 10-11.6. | London | [AI Summit](https://theaisummit.com/) | Breite und große Konferenz, Ableger gibt es auch in Hong Kong,  San Francisco, Singapore, New York und Cape Town
 16-18.6. | Stuttgart | [Autonomous Vehicle Software Symposium](https://www.autonomousvehicle-software.com/en/) | Konferenz zu ML, KI und CV für Autonomes Fahren - Teil der [Autonomous Vehicle Expo in Stuttgart](https://www.autonomousvehicletechnologyexpo.com/en/).
+9.9. | Ruhrgebiet | [it.Ruhr Symposium](https://www.car-future.com/de/science/it-symposium/) |Interessante Konferenz zu AI für die Automobilindustrie
 15-17.9. | Brüssel | [AutoSense](https://auto-sens.com/autosens-brussels/) | Konferenz zu Perception im Fahrzeug Kontext 
 17.-18.9.  | London | [Deep Learning Summit Europe](https://www.re-work.co/events/deep-learning-summit-london-2020) | In der Vergangenheit sehr spannende Redner.
 24-25.9. | Berlin | [Auto.AI](http://auto-ai.eu/en/)  | Spannende Konferenz an der Schnittstelle von Automotive und AI. 
@@ -65,8 +66,9 @@ Datum | Ort | Konferenz  | Anmerkungen
 12.-18.7. | Wien | [ICML](https://icml.cc/Conferences/2019) | International Conference on Machine Learning.
 11.-17.7. | Yokohama | [IJCAI](https://ijcai20.org/) | International Joint Conference on Artificial Intelligence - die wichtigste internationale Konferenz für Künstliche Intelligenz
 3.-6.8. | Toronto | [UAI](http://auai.org/uai2020/) | Conference on Uncertainty in Artificial Intelligence
+9.9. | Ruhrgebiet | [](https://www.car-future.com/de/science/it-symposium/)
 14.-18.9. | Ghent | [ECML-PKDD](https://ecmlpkdd2020.net/) | Gute Europäische Konferenz zu Machine Learning. 
-23.-28.9. | Glasgow | [ECCV](https://eccv2020.eu/) | European Conference on Computer Vision - Wichtigste europäische Konferenz zum maschinellen sehen.  
+23.-28.9. | Glasgow | [](https://www.car-future.com/de/science/it-symposium/)ECCV](https://eccv2020.eu/) | European Conference on Computer Vision - Wichtigste europäische Konferenz zum maschinellen sehen.  
 20-23.9.| Rhodos | [ITSC](https://www.ieee-itsc2020.org/) | Intelligent Transport Systems Conference - Wissenschaftliche Konferenz mit Fokus auf autonomen Fahren.
 12.-14.10.2020 | Lyon | [DDI](https://ddi2020.sciencesconf.org/) | 7th International Conference on Drive Distraction and Inattention - kein Konferenz großem Ruf, aber aufgrund der neuen Regeln aus Brüssel müsste Driver Monitoring dieses Jahr eigentlich stark an Wichtigkeit und Sichtbarkeit gewinnen und sollte diese Konferenz darüber zu einem interessanten Ort werden.   
 25-29.10.2020  | Las Vegas | [IROS](http://www.iros2020.org/) | IEEE/RSJ International Conference on Intelligent Robots and Systems - Wichtige Konferenz zur KI für Roboter.
