@@ -1,4 +1,4 @@
-# Gute Data, ML und AI Konferenzen in den nächsten Monaten (Stand August 2022)
+# Data, ML und AI Konferenzen in den nächsten Monaten (Stand August 2022)
 
 Diese Liste sammelt Data + ML Konferenzen die ([meiner](http://vzach.de) Meinung nach) wirklich die Zeit wert sind (inkl. der für die Anreise aus Deutschland bzw. mit einer Online Komponente).   
 
